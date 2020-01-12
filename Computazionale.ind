@@ -1,0 +1,189 @@
+\begin{theindex}
+
+  \item antisimmetrizzazione, 42
+  \item approssimazione di Stirling, 105
+
+  \indexspace
+
+  \item B3LYP, 95
+  \item Becke B, 94
+  \item bending fuori dal piano, 20
+  \item Born-Oppenheimer, 33, 37, 87
+  \item Bose-Einstein, 103
+  \item Bound Function BF, 82
+  \item BSSE, 81
+
+  \indexspace
+
+  \item campo di forza, 15
+  \item cariche fluttuanti, 25, 26
+  \item cariche parziali, 24
+  \item CAS, 64
+  \item CC, 61, 70
+  \item Chemical Hamiltonian Approach CHA, 82
+  \item CI, 61
+  \item CNDO, 98
+  \item correlazione, 59
+  \item correlazione 
+    \subitem dinamica, 59
+    \subitem statica , 59, 96
+  \item CounterPoise CP, 82
+
+  \indexspace
+
+  \item densit\IeC {\`a} elettronica, 86
+  \item determinante di Slater, 34, 42
+  \item DFT, 75, 86
+  \item DFT 
+    \subitem matrice densit\IeC {\`a} ridotta, 89
+    \subitem senza orbitali, 87
+  \item dipoli istantanei, 21
+  \item Dipolo puntuale, 26
+  \item Dirac, 37, 80
+  \item Drude 
+    \subitem oscillatore di, 26
+
+  \indexspace
+
+  \item ECP, 80
+  \item energia 
+    \subitem di bending, 18
+    \subitem di stretching, 16
+    \subitem di Van der Waals, 20, 23, 24
+    \subitem elettronica, 14, 27
+    \subitem elettrostatica, 23, 25, 26
+    \subitem potenziale, 4
+    \subitem torsionale, 19, 25
+  \item ensamble, 101
+
+  \indexspace
+
+  \item Fermi-Dirac, 103
+  \item fononi, 120
+  \item Frozen Core, 61
+  \item Frozen Virtuals, 61
+  \item funzionale, 87
+  \item Funzionali ibridi, 94
+  \item funzione di partizione, 106
+  \item funzioni base, 73
+
+  \indexspace
+
+  \item GGA, 94
+  \item gruppo funzionale, 14
+  \item GTO, 75
+
+  \indexspace
+
+  \item H\"uckel, 98
+  \item Hartree-Fock, 33, 34, 87
+  \item Hohenberg-Kohn, 86, 96
+
+  \indexspace
+
+  \item incroci evitati, 38
+  \item INDO, 98
+
+  \indexspace
+
+  \item Kohn-Sham, 88
+
+  \indexspace
+
+  \item Lagrange 
+    \subitem metodo di, 50, 62, 95, 101
+    \subitem moltiplicatori di, 27, 105, 106, 109
+  \item LCAO, 73
+  \item LDA, 93
+  \item Lee-Yang-Parr LYP, 94
+  \item legame 
+    \subitem a idrogeno, 23
+  \item Lieb-Oxford 
+    \subitem legge di, 93
+
+  \indexspace
+
+  \item m-GGA, 94
+  \item Maxwell-Boltzman, 103
+  \item MBPT, 61, 65
+  \item MCSCF, 64
+  \item meccanica molecolare, 15
+  \item metodo 
+    \subitem perturbativo, 39, 41
+    \subitem variazionale, 39
+  \item modelli di polarizzazione, 25
+  \item momento 
+    \subitem dipolare, 24
+  \item Monte Carlo, 71, 94
+  \item M{\o }ller- Plesset, 68
+
+  \indexspace
+
+  \item NDDO, 97
+
+  \indexspace
+
+  \item onde piane, 57, 84
+  \item operatore di Fock, 51
+  \item orbitali di Bloch, 57
+  \item oscillatore armonico, 16
+  \item ottimizzazione, 16
+
+  \indexspace
+
+  \item particella indipendente, 33
+  \item PBE, 94
+  \item potenziale 
+    \subitem di Buckingham o Hill, 22
+    \subitem di Lennard-Jones, 21
+    \subitem di Morse, 17, 22
+  \item proiezione 
+    \subitem di Newman, 19
+  \item Pseudo Potenziale, 80
+  \item pseudo-atomi, 23
+  \item PW86, 94
+  \item PW91, 94
+
+  \indexspace
+
+  \item Roothaan-Hall 
+    \subitem equazioni di, 54, 96
+
+  \indexspace
+
+  \item Schr\"{o}dinger 
+    \subitem equazione di , 33
+  \item serie 
+    \subitem di Fourier, 19
+    \subitem di Taylor, 16, 26, 28
+  \item serie di 
+    \subitem Taylor, 70
+  \item set base, 74, 82
+  \item Set Base 
+    \subitem aumentati, 80
+    \subitem contratti, 79
+    \subitem correlation consistent, 83
+    \subitem di ANO, 83
+    \subitem di Dunning, 83
+    \subitem di Karlsruhe, 83
+    \subitem di onde piane, 84
+    \subitem di Pople, 82
+    \subitem Polarization consistent, 84
+    \subitem relativistici, 84
+  \item size consistency, 69
+  \item spin-orbitali, 42, 53
+  \item stati stazionari, 36
+  \item STO, 74
+
+  \indexspace
+
+  \item temperatura rotazionale, 117
+  \item termine massimo 
+    \subitem metodo del, 104
+  \item Termodinamica statistica, 101
+  \item Thomas-Fermi 
+    \subitem teoria di, 87
+  \item tipi atomici, 14, 15, 25, 29, 30
+  \item trasferimento di carica, 27
+
+\end{theindex}
