@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  12 JAN 2020 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  13 JAN 2020 18:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -742,6 +742,10 @@ Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+(/usr/share/texlive/texmf-dist/tex/latex/titlepic/titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+
+)
 \Computazionale@idxfile=\write3
 \openout3 = `Computazionale.idx'.
 
@@ -750,29 +754,29 @@ Writing index file Computazionale.idx
 (./Computazionale.aux)
 \openout1 = `Computazionale.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -841,305 +845,542 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \it@ocap on input line 28.
-LaTeX Info: Redefining \it@ccap on input line 28.
+LaTeX Info: Redefining \it@ocap on input line 29.
+LaTeX Info: Redefining \it@ccap on input line 29.
 
+
+LaTeX Warning: No \author given.
+
+<chim.jpg, id=1, 376.40625pt x 302.12875pt>
+File: chim.jpg Graphic file (type jpg)
+<use chim.jpg>
+Package pdftex.def Info: chim.jpg  used on input line 35.
+(pdftex.def)             Requested size: 225.84547pt x 181.27864pt.
+<licenza.png, id=2, 64.3203pt x 12.045pt>
+File: licenza.png Graphic file (type png)
+<use licenza.png>
+Package pdftex.def Info: licenza.png  used on input line 40.
+(pdftex.def)             Requested size: 64.32013pt x 12.04495pt.
 [0
 
 
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<licenza.png, id=10, 64.3203pt x 12.045pt>
-File: licenza.png Graphic file (type png)
-<use licenza.png>
-Package pdftex.def Info: licenza.png  used on input line 38.
-(pdftex.def)             Requested size: 64.32013pt x 12.04495pt.
- [1 <./licenza.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./chim.jpg> <./licenza.png
+>]
 Indice
-(./Computazionale.toc [2
+(./Computazionale.toc [1
+
+
+])
+\tf@toc=\write4
+\openout4 = `Computazionale.toc'.
+
+ [2]
+Cosa non studiare?
+[3
 
 
 ]
-Runaway argument?
-{\tocparagraph {}{}{Il teorema di Hohenberg-Kohn assicura che la dens\ETC.
-! Paragraph ended before \@tocline was complete.
-<to be read again> 
-                   \par 
-l.112 ... metodi \emph {ensemble DFT}.\unskip \par
-                                                   \let \reserved@d = *\def ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-! TeX capacity exceeded, sorry [grouping levels=255].
-\GenericError  #1#2#3#4->\begingroup 
-                                     \immediate \write \@unused   \def \Mess...
-l.112 ...espaces \ignorespaces \ignorespaces }\def
-                                                   \ignorespaces {\GenericEr...
-If you really absolutely need more capacity,
-you can ask a wizard to enlarge me.
-
- 
+Capitolo 1
+<PES_California.png, id=29, 136.8312pt x 112.2594pt>
+File: PES_California.png Graphic file (type png)
+<use PES_California.png>
+Package pdftex.def Info: PES_California.png  used on input line 65.
+(pdftex.def)             Requested size: 164.19661pt x 134.71059pt.
+<PES_molecola.png, id=30, 120.45pt x 92.9874pt>
+File: PES_molecola.png Graphic file (type png)
+<use PES_molecola.png>
+Package pdftex.def Info: PES_molecola.png  used on input line 67.
+(pdftex.def)             Requested size: 144.53926pt x 111.5843pt.
+
+Underfull \vbox (badness 3954) has occurred while \output is active []
+
+ [4
+
+
+ <./PES_California.png> <./PES_molecola.png>] [5]
+<rep.png, id=44, 526.96875pt x 412.54124pt>
+File: rep.png Graphic file (type png)
+<use rep.png>
+Package pdftex.def Info: rep.png  used on input line 97.
+(pdftex.def)             Requested size: 158.09184pt x 123.76332pt.
+<pot.png, id=45, 401.5pt x 370.38374pt>
+File: pot.png Graphic file (type png)
+<use pot.png>
+Package pdftex.def Info: pot.png  used on input line 99.
+(pdftex.def)             Requested size: 120.45091pt x 111.11597pt.
+<PES.png, id=46, 560.0925pt x 360.34625pt>
+File: PES.png Graphic file (type png)
+<use PES.png>
+Package pdftex.def Info: PES.png  used on input line 110.
+(pdftex.def)             Requested size: 168.02904pt x 108.1047pt.
+ [6 <./rep.png> <./pot.png> <./PES.png>] [7]
+<quasiNewton.png, id=57, 761.84625pt x 820.06375pt>
+File: quasiNewton.png Graphic file (type png)
+<use quasiNewton.png>
+Package pdftex.def Info: quasiNewton.png  used on input line 169.
+(pdftex.def)             Requested size: 228.55563pt x 246.02103pt.
+
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+ [9 <./quasiNewton.png>] [10] [11] [12] [13
+
+
+]
+Capitolo 2
+<tipiAtomici.png, id=82, 689.57625pt x 421.575pt>
+File: tipiAtomici.png Graphic file (type png)
+<use tipiAtomici.png>
+Package pdftex.def Info: tipiAtomici.png  used on input line 233.
+(pdftex.def)             Requested size: 206.87447pt x 126.47346pt.
+[14
+
+
+ <./tipiAtomici.png>]
+<mm2at.png, id=88, 591.20876pt x 295.1025pt>
+File: mm2at.png Graphic file (type png)
+<use mm2at.png>
+Package pdftex.def Info: mm2at.png  used on input line 244.
+(pdftex.def)             Requested size: 177.36398pt x 88.53142pt.
+ [15 <./mm2at.png>] [16]
+<morsepot.png, id=98, 895.345pt x 734.745pt>
+File: morsepot.png Graphic file (type png)
+<use morsepot.png>
+Package pdftex.def Info: morsepot.png  used on input line 305.
+(pdftex.def)             Requested size: 358.13165pt x 293.89279pt.
+<oop.png, id=99, 741.77126pt x 246.9225pt>
+File: oop.png Graphic file (type png)
+<use oop.png>
+Package pdftex.def Info: oop.png  used on input line 327.
+(pdftex.def)             Requested size: 296.70325pt x 98.76724pt.
+ [17] [18 <./morsepot.png> <./oop.png>]
+<conf.png, id=109, 658.46pt x 580.1675pt>
+File: conf.png Graphic file (type png)
+<use conf.png>
+Package pdftex.def Info: conf.png  used on input line 355.
+(pdftex.def)             Requested size: 263.37933pt x 232.06288pt.
+<omconf.png, id=110, 806.01125pt x 477.785pt>
+File: omconf.png Graphic file (type png)
+<use omconf.png>
+Package pdftex.def Info: omconf.png  used on input line 364.
+(pdftex.def)             Requested size: 161.19939pt x 95.5553pt.
+ [19 <./conf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
+
+ []
+
+[20 <./omconf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--408
+
+ []
+
+<vdw.png, id=119, 918.43124pt x 738.76pt>
+File: vdw.png Graphic file (type png)
+<use vdw.png>
+Package pdftex.def Info: vdw.png  used on input line 425.
+(pdftex.def)             Requested size: 275.5315pt x 221.6297pt.
+[21] [22 <./vdw.png>]
+<dipoli.png, id=127, 389.455pt x 408.52625pt>
+File: dipoli.png Graphic file (type png)
+<use dipoli.png>
+Package pdftex.def Info: dipoli.png  used on input line 476.
+(pdftex.def)             Requested size: 116.83739pt x 122.55882pt.
+ [23 <./dipoli.png>] [24] [25] [26] [27] [28] [29]
+[30] [31
+
+
+]
+Capitolo 3
+[32
+
+
+]
+<distrib.png, id=163, 410.53375pt x 389.455pt>
+File: distrib.png Graphic file (type png)
+<use distrib.png>
+Package pdftex.def Info: distrib.png  used on input line 727.
+(pdftex.def)             Requested size: 123.16107pt x 116.83739pt.
+ [33] [34 <./distrib.png>] [35] [36]
+<ton.png, id=180, 865.2325pt x 731.73375pt>
+File: ton.png Graphic file (type png)
+<use ton.png>
+Package pdftex.def Info: ton.png  used on input line 832.
+(pdftex.def)             Requested size: 259.57175pt x 219.52182pt.
+ [37 <./ton.png>] [38] [39] [40]
+<rhf.png, id=194, 276.03125pt x 569.12625pt>
+File: rhf.png Graphic file (type png)
+<use rhf.png>
+Package pdftex.def Info: rhf.png  used on input line 961.
+(pdftex.def)             Requested size: 69.00763pt x 142.2812pt.
+
+[41 <./rhf.png>]
+<uhf.png, id=199, 213.79875pt x 556.0775pt>
+File: uhf.png Graphic file (type png)
+<use uhf.png>
+Package pdftex.def Info: uhf.png  used on input line 969.
+(pdftex.def)             Requested size: 53.44955pt x 139.01903pt.
+<rof.png, id=200, 136.51pt x 560.0925pt>
+File: rof.png Graphic file (type png)
+<use rof.png>
+Package pdftex.def Info: rof.png  used on input line 980.
+(pdftex.def)             Requested size: 34.12741pt x 140.02278pt.
+ [42 <./uhf.png> <./rof.png>] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+
+ []
+
+
+Underfull \vbox (badness 1308) has occurred while \output is active []
+
+ [44]
+[45]
+<fer.png, id=217, 729.72626pt x 554.07pt>
+File: fer.png Graphic file (type png)
+<use fer.png>
+Package pdftex.def Info: fer.png  used on input line 1098.
+(pdftex.def)             Requested size: 218.91957pt x 166.22227pt.
+ [46 <./fer.png>]
+Underfull \vbox (badness 2189) has occurred while \output is active []
+
+ [47]
+[48] [49]
+Underfull \vbox (badness 1596) has occurred while \output is active []
+
+ [50]
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 5288) has occurred while \output is active []
+
+ [53]
+[54] [55] [56]
+Capitolo 4
+
+Underfull \hbox (badness 4454) in paragraph at lines 1346--1346
+[]\T1/cmr/m/sc/10 Figura 4.0.1.\T1/cmr/m/n/10 Energie di cor-re-la-zio-ne sta-t
+i-ca e di-na-mi-ca
+ []
+
+<corr.png, id=255, 387.4475pt x 204.765pt>
+File: corr.png Graphic file (type png)
+<use corr.png>
+Package pdftex.def Info: corr.png  used on input line 1347.
+(pdftex.def)             Requested size: 193.72327pt x 102.38223pt.
+[57
+
+
+ <./corr.png>]
+<exx.png, id=260, 794.97pt x 463.7325pt>
+File: exx.png Graphic file (type png)
+<use exx.png>
+Package pdftex.def Info: exx.png  used on input line 1378.
+(pdftex.def)             Requested size: 238.49284pt x 139.12082pt.
+ [58 <./exx.png>] [59] [60] [61]
+<ras.png, id=275, 618.31pt x 619.31375pt>
+File: ras.png Graphic file (type png)
+<use ras.png>
+Package pdftex.def Info: ras.png  used on input line 1482.
+(pdftex.def)             Requested size: 185.49443pt x 185.79555pt.
+
+Underfull \vbox (badness 2237) has occurred while \output is active []
+
+ [62]
+[63 <./ras.png>]
+Underfull \vbox (badness 2961) has occurred while \output is active []
+
+ [64]
+[65] [66] [67] [68]
+Underfull \vbox (badness 3333) has occurred while \output is active []
+
+ [69]
+[70]
+Capitolo 5
+[71
+
+
+] [72]
+<sto.png, id=312, 736.7525pt x 616.3025pt>
+File: sto.png Graphic file (type png)
+<use sto.png>
+Package pdftex.def Info: sto.png  used on input line 1783.
+(pdftex.def)             Requested size: 221.02745pt x 184.89217pt.
+
+Underfull \vbox (badness 7851) has occurred while \output is active []
+
+ [73]
+<trip.png, id=316, 203.25937pt x 158.84344pt>
+File: trip.png Graphic file (type png)
+<use trip.png>
+Package pdftex.def Info: trip.png  used on input line 1801.
+(pdftex.def)             Requested size: 121.95656pt x 95.3068pt.
+
+[74 <./sto.png> <./trip.png>]
+<ndz.png, id=321, 361.35pt x 368.37625pt>
+File: ndz.png Graphic file (type png)
+<use ndz.png>
+Package pdftex.def Info: ndz.png  used on input line 1825.
+(pdftex.def)             Requested size: 216.81168pt x 221.02744pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+[76 <./ndz.png (PNG copy)>]
+Underfull \hbox (badness 1028) in paragraph at lines 1857--1857
+[]\T1/cmr/m/sc/10 Figura 5.3.1.\T1/cmr/m/n/10 Schema di co-stru-zio-ne di gaus-
+sia-ne con-trat-te
+ []
+
+<segcon.png, id=328, 1156.32pt x 448.67625pt>
+File: segcon.png Graphic file (type png)
+<use segcon.png>
+Package pdftex.def Info: segcon.png  used on input line 1858.
+(pdftex.def)             Requested size: 346.89868pt x 134.60391pt.
+[77 <./segcon.png>] [78]
+<ecp.png, id=337, 739.76375pt x 610.28pt>
+File: ecp.png Graphic file (type png)
+<use ecp.png>
+Package pdftex.def Info: ecp.png  used on input line 1886.
+(pdftex.def)             Requested size: 221.93083pt x 183.0854pt.
+ [79 <./ecp.png>]
+<pop.png, id=342, 1228.59pt x 339.2675pt>
+File: pop.png Graphic file (type png)
+<use pop.png>
+Package pdftex.def Info: pop.png  used on input line 1931.
+(pdftex.def)             Requested size: 368.57985pt x 101.78102pt.
+
+Overfull \hbox (8.57985pt too wide) in paragraph at lines 1931--1932
+ [][][] 
+ []
+
+
+Underfull \vbox (badness 4266) has occurred while \output is active []
+
+ [80]
+<kar.png, id=346, 1224.575pt x 271.0125pt>
+File: kar.png Graphic file (type png)
+<use kar.png>
+Package pdftex.def Info: kar.png  used on input line 1945.
+(pdftex.def)             Requested size: 367.37534pt x 81.30437pt.
+
+Overfull \hbox (7.37534pt too wide) in paragraph at lines 1945--1946
+ [][][] 
+ []
+
+<cc.png, id=347, 1220.56pt x 344.28625pt>
+File: cc.png Graphic file (type png)
+<use cc.png>
+Package pdftex.def Info: cc.png  used on input line 1958.
+(pdftex.def)             Requested size: 366.17082pt x 103.28667pt.
+
+Overfull \hbox (6.17082pt too wide) in paragraph at lines 1958--1959
+ [][][] 
+ []
+
+[81 <./pop.png> <./kar.png>]
+<pc.png, id=353, 1215.54124pt x 340.27126pt>
+File: pc.png Graphic file (type png)
+<use pc.png>
+Package pdftex.def Info: pc.png  used on input line 1971.
+(pdftex.def)             Requested size: 364.66519pt x 102.08215pt.
+
+Overfull \hbox (4.66519pt too wide) in paragraph at lines 1971--1972
+ [][][] 
+ []
+
+[82 <./cc.png> <./pc.png>] [83]
+Capitolo 6
+[84
+
+
+] [85] [86] [87]
+Overfull \hbox (10.09969pt too wide) detected at line 2120
+\OML/cmm/m/it/10 ^^Z[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]; r[]\OT1/cmr/m/n/10
+ ) = \OML/cmm/m/it/10 ^^M[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]; r[]; r[]; r[]
+\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N[] \
+OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1) [] 	[](\OML/cmm/m/it/10 r[]; [] ; r[]\OT
+1/cmr/m/n/10 )	(\OML/cmm/m/it/10 r[]; [] ; r[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10
+ dr[] [] dr[]
+ []
+
+[88] [89] [90] [91] [92] [93] [94]
+Capitolo 7
+[95
+
+
+] [96] [97] [98
+
+
+]
+Capitolo 8
+[99
+
+
+]
+<ensamble_gen.png, id=414, 853.1875pt x 578.16pt>
+File: ensamble_gen.png Graphic file (type png)
+<use ensamble_gen.png>
+Package pdftex.def Info: ensamble_gen.png  used on input line 2376.
+(pdftex.def)             Requested size: 255.95822pt x 173.44933pt.
+ [100 <./ensamble_gen.png>]
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 2406.
+
+<maxwel1.jpg, id=419, 281.05pt x 272.01625pt>
+File: maxwel1.jpg Graphic file (type jpg)
+<use maxwel1.jpg>
+Package pdftex.def Info: maxwel1.jpg  used on input line 2410.
+(pdftex.def)             Requested size: 140.52464pt x 136.00778pt.
+[101 <./maxwel1.jpg>] [102]
+Overfull \hbox (1.91103pt too wide) detected at line 2460
+[] \OT1/cmr/m/n/10 
+[] = [] \OMS/cmsy/m/n/10 N\OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@ [] [] \OML/cmm
+/m/it/10 n[]\OT1/cmr/m/n/10 ! = \OMS/cmsy/m/n/10 N [] N ^^@ N ^^@ [] \OML/cmm/m
+/it/10 n[] [] n[] \OT1/cmr/m/n/10 + [] \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \
+OMS/cmsy/m/n/10 N [] N ^^@ [] \OML/cmm/m/it/10 n[] [] n[]
+ []
+
+[103] [104] [105] [106] [107] [108] [109]
+<bru.png, id=450, 311.1625pt x 204.765pt>
+File: bru.png Graphic file (type png)
+<use bru.png>
+Package pdftex.def Info: bru.png  used on input line 2734.
+(pdftex.def)             Requested size: 155.58087pt x 102.38223pt.
+ [110] [111 <./bru.png>] [112]
+[113] [114] [115] [116]
+Capitolo 9
+
+Underfull \hbox (badness 1796) in paragraph at lines 2945--2945
+[]\T1/cmr/m/sc/10 Figura 9.1.1.\T1/cmr/m/n/10 Dispersione fo-no-ni-ca pre-det-t
+a e spe-ri-men-ta-le
+ []
+
+<fonodisp.jpg, id=474, 1027.84pt x 568.1225pt>
+File: fonodisp.jpg Graphic file (type jpg)
+<use fonodisp.jpg>
+Package pdftex.def Info: fonodisp.jpg  used on input line 2946.
+(pdftex.def)             Requested size: 205.56436pt x 113.62248pt.
+[117
+
+
+]
+<molle.png, id=478, 540.0175pt x 141.52875pt>
+File: molle.png Graphic file (type png)
+<use molle.png>
+Package pdftex.def Info: molle.png  used on input line 2954.
+(pdftex.def)             Requested size: 270.00809pt x 70.76419pt.
+ [118 <./fonodisp.jpg> <./molle.png>]
+<acu.png, id=483, 525.965pt x 318.18875pt>
+File: acu.png Graphic file (type png)
+<use acu.png>
+Package pdftex.def Info: acu.png  used on input line 3009.
+(pdftex.def)             Requested size: 262.98184pt x 159.09398pt.
+ [119]
+<AA1.png, id=488, 608.2725pt x 123.46124pt>
+File: AA1.png Graphic file (type png)
+<use AA1.png>
+Package pdftex.def Info: AA1.png  used on input line 3017.
+(pdftex.def)             Requested size: 304.13551pt x 61.73045pt.
+ [120 <./acu.png> <./AA1.png>]
+<AA2.png, id=495, 308.15125pt x 331.2375pt>
+File: AA2.png Graphic file (type png)
+<use AA2.png>
+Package pdftex.def Info: AA2.png  used on input line 3040.
+(pdftex.def)             Requested size: 154.07524pt x 165.61833pt.
+
+[121 <./AA2.png>]
+<AA3.png, id=500, 562.1pt x 290.08376pt>
+File: AA3.png Graphic file (type png)
+<use AA3.png>
+Package pdftex.def Info: AA3.png  used on input line 3063.
+(pdftex.def)             Requested size: 281.04932pt x 145.04152pt.
+<dirac.png, id=501, 344.28625pt x 292.09125pt>
+File: dirac.png Graphic file (type png)
+<use dirac.png>
+Package pdftex.def Info: dirac.png  used on input line 3079.
+(pdftex.def)             Requested size: 172.1427pt x 146.04526pt.
+ [122 <./AA3.png>] [123 <./dirac.png>]
+<AA5.png, id=510, 340.27126pt x 296.10625pt>
+File: AA5.png Graphic file (type png)
+<use AA5.png>
+Package pdftex.def Info: AA5.png  used on input line 3109.
+(pdftex.def)             Requested size: 170.13521pt x 148.05275pt.
+ [124 <./AA5.png>]
+runsystem(makeindex Computazionale.idx)...executed safely (allowed).
+
+
+(./Computazionale.ind
+Indice analitico
+[125
+
+
+
+
+]) [126]
+Ringraziamenti
+[127
+
+
+] (./Computazionale.aux) ) 
 Here is how much of TeX's memory you used:
- 5345 strings out of 494798
- 67979 string characters out of 6177668
- 168101 words of memory out of 5000000
- 8392 multiletter control sequences out of 15000+600000
- 13387 words of font info for 37 fonts, out of 8000000 for 9000
+ 5737 strings out of 494798
+ 72376 string characters out of 6177668
+ 147539 words of memory out of 5000000
+ 8719 multiletter control sequences out of 15000+600000
+ 24701 words of font info for 62 fonts, out of 8000000 for 9000
  242 hyphenation exceptions out of 8191
- 512i,7n,1018p,1500b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 39i,16n,37p,1278b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/fabio/.texlive2017/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecbx0700.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/ljfour
+/jknappen/ec/tcrm1000.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ecbx2074.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1728.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/ljf
+our/jknappen/ec/eccc1000.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/lj
+four/jknappen/ec/ecti1000.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecrm0700.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1000.600pk> </home/fabio/.texlive2017/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecbx1440.600pk> </home/fabio/.texlive2017/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecrm0900.600pk> </home/fabio/.texlive2017/texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecti1200.600pk> </home/fabio/.texlive2017/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/fabio/.texlive2017/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecti2074.600pk> </home/fabio/.texlive2017/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1440.600pk></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/symbols/msbm5.pfb>
+Output written on Computazionale.pdf (128 pages, 2251011 bytes).
+PDF statistics:
+ 1085 PDF objects out of 1200 (max. 8388607)
+ 386 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+

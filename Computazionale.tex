@@ -14,6 +14,7 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{titlepic}
 
 
 \makeindex
@@ -27,17 +28,20 @@
 \makeatother
 \begin{document}
 \begin{titlepage}
-\title{Riassunti e approfondimenti di\\ \emph{Chimica Teorica e Computazionale}}
+\title{Riassunti e approfondimenti di\\ \textit{\Huge Chimica Teorica e Computazionale}}
+\titlepic{\includegraphics[scale=0.6]{chim}}
 
-
-\author{ A cura di: \\ \textit{F. Colasuonno}}
 \end{titlepage}
 \maketitle
-Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-nc/3.0/it/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+ A cura di: \textit{\Large F. Colasuonno}
 \begin{figure}
+{\small Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Non commerciale 3.0 Italia. Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-nc/3.0/it/ o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.}
 \includegraphics[scale=1.0]{licenza}
 \end{figure}
-\tableofcontents
+
+\tableofcontents{}
+
 \chapter*{Cosa non studiare?}
 Il presente testo non deve essere considerato sostitutivo degli appunti presi in classe o delle dispense fornite dai professori, sebbene tutti gli argomenti trattati durante i corsi siano inclusi. La motivazione risiede negli obiettivi che quest'opera si presupponeva di raggiungere; infatti questo testo nasce dall'esigenza personale dell'autore di scrivere in un'unica raccolta di concetti tutte le nozioni relative la chimica teorica. Per puro interesse personale alcune parti sono state ampliate rispetto il programma dei corsi mentre altre sono state riassunte non perché meno importanti o di limitato interesse ma per far fronte a esigenze di studio particolari. Data la non generalità del organizzazione della conoscenza operata in quest'opera, in seguito a una serie di confronti con il titolare del corso di Computazionale, ho deciso di riportare di seguito una breve lista dei paragrafi di approfondimento che non vengono trattati nel ambito del corso di \emph{Chimica Computazionale}.
 \begin{itemize}
@@ -216,23 +220,20 @@ E_{ZPE}=\frac{1}{2} \sum \limits_{k=1}^{3N-6}h\nu_k
 Questa energia descrive l'energia più bassa assumibile da un qualsiasi sistema quantistico. Il suo utilizzo principale sta nella previsione di differenze di energia tra sistemi quantistici, infatti tutti paramaetri termodinamici macroscopici possono essere determinati a partire da considerazioni microscopiche mediante l'uso della termodinamica statistica, la quale coinvolge valori di differenze di energia ricavabili come riportato in Eq.\ref{ZPE}. Il limite principale dell'uso della ZPE sta nel fatto che si assume che la molecola si trovi a $0 K$ quindi ogni effetto dinamico o dipendente dalla temperatura non può essere osservato. Per poter fare previsioni a temperature superiori sono necessari calcoli più complessi e quindi più costosi in termini temporali.
 
 
-
-
-
 \part{Meccanica molecolare}
 \chapter{Metodi basati su campi di forza}
 Il principale obbiettivo di un metodo di calcolo è giungere a un'espressione numerica dell'energia totale del sistema analizzato. Il punto fondamentale in ogni metodo, quantistico o classico, è la definizione dell'\emph{energia elettronica} \index{energia !elettronica}che nell'approssimazione di Born-Oppenheimer coincide con l'energia totale della molecola a meno del potenziale di interazione tra nuclei. Infatti nei metodi quantistici questa è definita a partire dalla risoluzione dell'equazione di Schr\"{o}dinger, mentre nei metodi della meccanica molecolare, l'energia elettronica è definita come una \emph{funzione parametrica} delle coordinate nucleari. I parametri che compaiono nella funzione sono tipicamente determinati in base a  dati sperimentali o computazionali calcolati a un più alto livello di teoria.
 Ogni effetto quantistico, quando si utilizzano metodi di meccanica molecolare, viene \emph{trascurato}. Quindi per sistemi dipendenti dal tempo la dinamica verrà trattata esclusivamente in base alla 2° legge della dinamica di Newton, mentre per sistemi indipendenti dal tempo il problema sta semplicemente nel calcolare l'energia totale della geometria in input.
-\section{I tipi atomici}
-Negli anni '30 si notò dall'osservazione degli spettri vibrazionali delle molecole che assemblamenti uguali di atomi condividevano le stesse proprietà chimico-fisiche. Da queste osservazioni nacque il concetto di \emph{gruppo funzionale} \index{gruppo funzionale}. In ambito computazionale si può pensare, quindi, di definire la geometria molecolare di input in base a degli atomi parametrizzati in modo da poter appartenere a uno specifico gruppo funzionale. Questo è necessario in quanto una trattazione classica non permette di determinare la corretta struttura elettronica che definisce un atomo in un gruppo funzionale. Nei metodi della meccanica quantistica questo problema è assente e si può quindi far uso di atomi puri privi di ulteriori parametrizzazioni se non quelle relative alla struttura interna del nucleo.
-Questi atomi parametrizzati che entrano a far parte dei vari gruppi funzionali prendono il nome di \emph{tipi atomici} \index{tipi atomici}. Essi sono definiti dai parametri nucleari e dal tipo di legame che coinvolge l'atomo, quindi dal gruppo funzionale in cui si trova come si può osservare in Fig.\ref{atomty}.1.
 
-\begin{figure} [H]
+\section{I tipi atomici}
+\begin{figure} 
 \label{atomty}
 \centering
 \caption{Esempio di un gruppo funzionale con i diversi tipi atomici  messi in evidenza}
-\includegraphics[scale=0.2]{tipiAtomici}
+\includegraphics[scale=0.3]{tipiAtomici}
 \end{figure}
+Negli anni '30 si notò dall'osservazione degli spettri vibrazionali delle molecole che assemblamenti uguali di atomi condividevano le stesse proprietà chimico-fisiche. Da queste osservazioni nacque il concetto di \emph{gruppo funzionale} \index{gruppo funzionale}. In ambito computazionale si può pensare, quindi, di definire la geometria molecolare di input in base a degli atomi parametrizzati in modo da poter appartenere a uno specifico gruppo funzionale. Questo è necessario in quanto una trattazione classica non permette di determinare la corretta struttura elettronica che definisce un atomo in un gruppo funzionale. Nei metodi della meccanica quantistica questo problema è assente e si può quindi far uso di atomi puri privi di ulteriori parametrizzazioni se non quelle relative alla struttura interna del nucleo.
+Questi atomi parametrizzati che entrano a far parte dei vari gruppi funzionali prendono il nome di \emph{tipi atomici} \index{tipi atomici}. Essi sono definiti dai parametri nucleari e dal tipo di legame che coinvolge l'atomo, quindi dal gruppo funzionale in cui si trova come si può osservare in Fig.\ref{atomty}.1.
 
 Tipicamente i \emph{tipi atomici} prendono il nome in base all'ordine in cui sono stati parametrizzati secondo un codice alfabetico o numerico come riportato nella Fig.\ref{mm2at}.2.
 
@@ -297,7 +298,7 @@ Per ridurre il numero di parametri in una approssimazione di Taylor esistono div
 \end{itemize}
 In figura \ref{morsepot} è possibile vedere le differenze tra le diverse approssimazioni e il potenziale esatto.
 
-\begin{figure} [H]
+\begin{figure} 
 \label{morsepot}
 \centering
 \caption{Confronto tra le diverse approssimazioni di $E_{str}$. Con "\emph{Exact}" si intende calcolato a un livello superiore di teoria ([$8,8$]-CASMP$2$/aug-cc-pVTZ). P$2$ e P$4$ sono le approssimazioni polinomiali troncate al secondo e al quarto ordine.}
@@ -319,7 +320,7 @@ La maggior parte dei sistemi chimici è adeguatamente descritta da un'approssima
 E_{oop}(d)= k^Bd^2
 \end{equation}
 
-\begin{figure} [H]
+\begin{figure} 
 \label{oopf}
 \centering
 \caption{Tipico sistema piramidale soggetto a bending fuori dal piano}
@@ -1329,7 +1330,7 @@ Per soddisfare una delle condizioni lo scarto tra l'ultimo valore e quello prece
 \section{Sistemi periodici}
 I sistemi periodici possono essere descritti in termini di \emph{cella unitaria fondamentale} ripetuta all'infinito nelle $3$ o meno dimensioni dello spazio. Tale cella è definita da dei vettori la cui lunghezza reciproca e i cui angoli sono definiti dal reticolo a cui appartiene.
 Se si possono definire altrettanti vettori ortonormali a quelli che definiscono la cella del reticolo allora questi nuovi vettori definiranno una cella a loro volta in un reticolo differente che prende il nome di reticolo \emph{reciproco}. Una cella unitaria ne reticolo reciproco prende il nome di \emph{Prima zona di Brillouin} (FBZ).
-Dal momento che la periodicità della geometria deve riflettersi sulla forma della funzione d'onda, una tale relazione è stata indagata da Bloch, il quale è giunto alla conclusione che la funzione d'onda di una cella, una volta che questa venga ripetuta, deve essere moltiplicata per un fattore che includa una \emph{fase} in campo complesso. Tale equazione prende il nome di \emph{onda di Bloch}:
+Dal momento che la periodicità della geometria deve riflettersi sulla forma della funzione d'onda, una tale relazione è stata indagata da Bloch, il quale è giunto alla conclusione che la funzione d'onda di una cella, una volta che questa venga ripetuta, deve essere moltiplicata per un fattore che includa una \emph{fase} in campo complesso. Tale equazione prende il nome di \emph{onda di Bloch}:\index{Bloch !funzioni di}
 \begin{equation}
 \phi (r+t) = e^{ikt}\phi(r)
 \end{equation}
@@ -2568,7 +2569,7 @@ Si può ora sfruttare nuovamente la forma differenziale dell'energia per ottener
 \begin{equation}
 \begin{aligned}
 d\bar{E} &= \underbrace{\sum_j P_j (N) dE_j}_{pdV}+\underbrace{\sum_j E_j dP_j(N)}_{X} \\
-X&= -\frac{1}{\beta}\left[ \sum_{j,N} \ln P_j(N)dP_j(N) + \sum_{j,N}\gamma N d P_j(N) + \ln \Xi d \sum_{j,N}P_j (N)\right] \\
+X= -\frac{1}{\beta}&\left[ \sum_{j,N} \ln P_j(N)dP_j(N) + \sum_{j,N}\gamma N d P_j(N)+\ln \Xi d \sum_{j,N}P_j (N)\right] \\
 \sum_{j,N} E_j dP_j (N) &=-\frac{1}{\beta}\left[ \sum_{j,N} \ln P_j(N)dP_j(N) + \gamma  d \bar{N}\right]\\
 d\left[ \sum_{j,N}P_j(N) \ln P_j(N)\right]&= \sum_{j,N} \ln P_j(N)dP_j(N) + \sum_{j,N}P_j(N)\frac{1}{P_j(N)} dP_j(N)\\
 \end{aligned}
@@ -2905,7 +2906,7 @@ Da cui deriva che:
 \begin{equation}
 q_{vib}(T)=\frac{e^{-\frac{\theta_{vib}}{2T}}}{1-e^{-\frac{\theta_{vib}}{T}}}
 \end{equation}
-In questa equazione introduciamo il concetto di \emph{temperatura vibrazionale} definita come:
+In questa equazione introduciamo il concetto di \emph{temperatura vibrazionale}\index{temperatura vibrazionale} definita come:
 \begin{equation}
 \theta_{vib}=\frac{h\nu}{k}
 \end{equation}
@@ -2935,7 +2936,7 @@ S_{ele}&=-\frac{ND_e}{T}+Nk\ln g_{ele,1}+\frac{ND_e}{T}\\
 \end{equation}
 \chapter{Applicazione della Termodinamica Statistica: Calcolo della dispersione fononica}
 In questo capitolo verrà trattato un argomento spesso molto oscuro per gli studenti di Chimica, in quanto poco attinente con le conoscenze pregresse. Tuttavia i \emph{fononi} sono da cosiderarsi fondamentali nella caratterizzazione di un solido e nella sua definizione teorica più completa; è quindi di fondamentale importanza illustrare chiaramente le loro origini per poi giungere a una trattazione più formale.
-\section{Fononi e vibrazioni reticolari}
+\section{Fononi e vibrazioni reticolari}\index{fononi}\index{dispersione fononica}
 Immaginamo un solido molecolare, ovvero un solido in cui tutte le posizioni reticolari siano occupate da una molecola. In un caso come questo, lo studio delle vibrazioni interne della molecola ci può portare alla definizione dello spettro vibrazionale della stessa. Tuttavia la molecola è ora vincolata all'occupazione di una posizione ben precisa a causa dell'energia potenziale dei suoi vicini. Ne consegue che i suoi tre gradi di libertà traslazionali in un solido tridimensionale vengono inibiti. Infatti essa potrà \emph{traslare} liberamente solo intorno a una posizione di equilibrio individuata da un minimo nella funzione \emph{energia potenziale della molecola}. Possiamo trattare la forma che assume questa energia potenziale con un'approssimazione armonica e scoprire che, di fatto, quelle che prima erano traslazioni ora sono vibrazioni o meglio oscillazioni intoerno a una posizione di equilibrio.
 Questa condizione si verifica esclusivamente nel caso di un solido, pertanto è strettamente legata alla sua periodicità, infatti non possiamo analizzare una molecola isolata ignorando il resto del cristallo ma dobbiamo necessariamente razionalizzare le vibrazioni complessive di tutte le molecole che occupano posizioni reticolari in relazione con le altre.
 Svolegere un simile calcolo significa andare a individuare quelli che per le vibrazioni molecolari vengono chimati \emph{modi normali} mentre nel nostro caso, delle vibrazioni reticolari verranno definiti \emph{fononi}.\index{fononi} Possiamo dunque iniziare a capire che i fononi hanno una diretta corrispondenza con i modi normali, ma a differenza di quest'ultimi essi non avranno necessariamente una frequenza unica. Infatti nel caso \emph{isotropico} si tende ad assumere che a ogni modo normale corrisponda necessariamente una frequenza. Tuttavia nei solidi a seconda della direzione lungo la quale si osseva un certo fenomeno esso può assumere connotazioni diverse. Questo è il caso dei fononi, infatti è possibile generare dei grafici che mostrano il variare della frequenza di una vibrazione reticolare a seconda della direzione in cui la si osserva. Con la direzione che viene definita da punti nello spazio reciproco, infatti a ogni punto dello spazio reciproco corrisponde una famiglia di piani nello spazio diretto e individuano dunque delle direzioni reticolari. Figure del tipo appena descritto vengono chiamate \emph{dispersioni fononiche}, un esempio è in figura \ref{fonodisp}.
@@ -3000,7 +3001,7 @@ Sostituendo ora nell'equazione semplificata e isolando a sinistra dell'uguale $\
 \begin{equation}
 \omega_k=\underbrace{\sqrt{\frac{4J}{m}}}_\textbf{A}\underbrace{\vert\sin(ka/2)\vert}_\textbf{B}
 \end{equation}
-Dove la parte \textbf{A} costituisce la soluzione classica delle frequenze di un modo normale di vibrazione mentre la parte \textbf{B} aggiunge una dipendenza periodica dal vettore d'onda $k$. Questo risultato ci può fare concludere che le vibrazioni reticolari non avranno sempre la stessa frequenza ma essa dipende dalle funzioni di Bloch che sono di fatto in grado di modulare la vibrazione reticolare. In un punto speciale $k=0$ detto $\Gamma$ la simmetria traslazionale delle funzioni di Bloch viene annulata e così il loro effetto di modulazione delle frequenze di vibrazione. Infatti in $\Gamma$ il cristallo non vibrerà in quanto il periodo di una singola funzione di Bloch risulta essere talmente grande che la vibrazione coinciderebbe di fatto con una traslazione dell'intero cristallo. Questo è il motivo per cui in $k=0$ le vibrazioni collettive del cristallo si annullano: perché degenerano in modi traslazionali.
+Dove la parte \textbf{A} costituisce la soluzione classica delle frequenze di un modo normale di vibrazione mentre la parte \textbf{B} aggiunge una dipendenza periodica dal vettore d'onda $k$. Questo risultato ci può fare concludere che le vibrazioni reticolari non avranno sempre la stessa frequenza ma essa dipende dalle funzioni di Bloch che sono di fatto in grado di modulare la vibrazione reticolare. In un punto speciale $k=0$ detto $\Gamma$ la simmetria traslazionale delle funzioni di Bloch\index{Bloch !funzioni di} viene annulata e così il loro effetto di modulazione delle frequenze di vibrazione. Infatti in $\Gamma$ il cristallo non vibrerà in quanto il periodo di una singola funzione di Bloch risulta essere talmente grande che la vibrazione coinciderebbe di fatto con una traslazione dell'intero cristallo. Questo è il motivo per cui in $k=0$ le vibrazioni collettive del cristallo si annullano: perché degenerano in modi traslazionali.
 A partire da questa equazione possiamo già costruire una prima approssimazione della figura di dispersione già citata in precedenza che assumerà la seguente forma:
 \begin{figure}[H]
 \centering
@@ -3040,8 +3041,8 @@ Le due soluzioni posso qindi essere rappresentate in forma grafica generando la 
 \end{figure}
 I due rami che si vedono in figura \ref{AA2} in base alle frequenze che esplorano prendono due nomi diversi:
 \begin{itemize}
-\item \textbf{Ramo acustico}: Si trova a frequenze basse ed è associato a vibrazioni a bassa energia, la velocità di propagazione di questi modi coincide con la velocità del suono nel solido. Questi modi vengono eccitati mediante semplici sollecitazioni meccaniche del solido.
-\item \textbf{Ramo ottico}: Occupa una zona di frequenze tipica della radiazione elettromagnetica. Ha sempre valori positivi diversi da $0$. L'eccitazione dei modi ottici avviene esclusivamente per interazione radiazione-materia.
+\item \textbf{Ramo acustico}\index{Ramo acustico} Si trova a frequenze basse ed è associato a vibrazioni a bassa energia, la velocità di propagazione di questi modi coincide con la velocità del suono nel solido. Questi modi vengono eccitati mediante semplici sollecitazioni meccaniche del solido.
+\item \textbf{Ramo ottico}: \index{Ramo ottico}Occupa una zona di frequenze tipica della radiazione elettromagnetica. Ha sempre valori positivi diversi da $0$. L'eccitazione dei modi ottici avviene esclusivamente per interazione radiazione-materia.
 \end{itemize}
 Risulta essere importante fare un breve ragionamento sulla lunghezza d'onda collegata a questi modi di vibrazione. Infatti essa è la lunghezza d'onda della funzione di Bloch che modula la vibrazione, è quindi evidente la differenza tra i modi acustici e i modi ottici. Infatti i primi saranno caratterizzati da una lunghezza d'onda maggiore del parametro reticolare, quindi la vibrazione avviene tra celle diverse. Mentre la lunghezza d'onda dei modi ottici può essere più piccola del parametro reticolare coinvolgendo anche vibrazioni molecolari. Questo risultato lo si ottiene matematicamente inserendo le soluzioni per $\omega_k^2$ nell'equazione matriciale al limite $k=0$. Infatti per i modi acustici si scopre che tutti gli spostamenti atomici sono in fase:
 \begin{equation}
@@ -3063,12 +3064,61 @@ Un'importante eccezione a queste condizioni di curvatura è costituita dal caso 
 \end{figure}
 
 La presenza degli operatori di simmetria spaziale citati sopra implica l'espansione della cella fondamentale con conseguente rimpicciolimento della prima zona di Brillouin. Se la FBZ si rimpicciolisce quindi le bande fononiche vengono ripiegate affinché rientrino nella FBZ.
-\section{Il modello di Einstein}
+\section{Il modello di Einstein}\index{Einstein !modello di}
 Il modello di Einstein costituisce il primo e più semplice modello che è stato sviluppato per correlare delle grandezze termodinamiche alla teoria dei fononi utilizzando la termodinamica statistica. Questo modello è basato su alcune assunzioni:
 \begin{itemize}
-\item
+\item Ogni vibrazione è indipendente da quelle vicine;
+\item Il potenziale a cui è sottoposta una molecola che vibra è perfettamente sferico;
+\item Tutte le vibrazioni avvengono a una sola frequenza, ovvero la distribuzione delle frequenze è una delta di Dirac.
 \end{itemize}
-\section{Il modello di Debye}
+Un esempio di distribuzione a delta di Dirac è mostrato in figura \ref{AA4}.
+Per definire un collegamento tra termodinamica statistica e fononi dobbiamo in primo luogo decidere quale sia l'entità chimica di cui considereremo l'ensemble. Per quanto riguarda i fononi è logico prendere come entità chimica la singola vibrazione definita da un modo normale e da una frequenza.
+\begin{figure}
+\centering
+\caption{Distribuzione delle frequenze nel modello di Einstein.}\label{AA4}
+\includegraphics[scale=0.5]{dirac}
+\end{figure}
+Dato che tutti gli oscillatori vibrano alla stessa frequenza allora possiamo dedurre che basti moltiplicare la funzione di partizione di un oscillatore per il numero di oscillatori quindi:
+\begin{equation}
+Q=e^{-N\varphi(0)/2kT}q^{3N} 
+\end{equation}
+Il termine esponenziale che precede la funzione di partizione serve a impostare uno zero del potenziale, infatti esso contiene il valore centrale del potenziale. In questo modo si evita di contare più volte diverse interazioni molecolari. 
+Deriviamo ora la funzione di partizione vibrazionale, a partire dalla definizione di energia vibrazionale.
+\begin{equation}
+\begin{aligned}
+q&=\sum_{n=0}^\infty e^{-\varepsilon_n/kT}\\
+\varepsilon_n&=\left(n+\frac{1}{2}\right)h\nu\\
+q&=e^{-h\nu/2kT}\underbrace{\sum_{n=0}^\infty e^{-hn\nu/kT}}_{\frac{1}{1-e^{-h\nu/kT}}}\\
+&=\frac{e^{-h\nu/2kT}}{1-e^{-h\nu/kT}}=\frac{e^{-\Theta/2T}}{1-e^{-\Theta/T}}
+\end{aligned}
+\end{equation}
+Dove $\Theta=h\nu/k$ e ha le dimensioni di una temperatura che tipicamente vale $300K$.
+Ora proviamo a derivare la \emph{capacità termica} che può essere confrontata facilmente con valori sperimentali in modo da validare o meno il modello di Einstein.\index{capacità termica}
+\begin{equation}
+\begin{aligned}
+E&=kT^2\left(\frac{\partial \ln Q}{\partial T}\right)_{N,V};\\
+C_v&=\left(\frac{\partial E}{\partial T}\right)_{N,V}=3Nk\left(\frac{\Theta}{T}\right)^2\frac{e^{\Theta/T}}{(e^{\Theta/T}-1)^2}
+\end{aligned}
+\end{equation}
+Questa legge, sebbene $V/N$ cambi per un singolo cristallo e $\Theta$ è caratteristico di ogni cristallo, può essere resa generale operando trasformazioni dei dati sperimentali. Tuttavia se si confrontano le curve sperimentali con i valori predetti dal modello di Einstein si nota che essi non coincidono. Ne deduciamo che le approssimazioni applicate siano troppo drastiche e quindi si debba aggiungere un po' di complessità al modello per ottenere un migliore accore sperimentale.
+\section{Il modello di Debye}\index{Debye !modello di}
+Nel modello di Debye viene meno la più grande approssimazione fatta nel modello di Einstein, ovvero la distribuzione delle frequenze a delta di Dirac. Infatti in questo modello si assume che le frequenze abbiano una distribuzione e che questa distribuzione abbia un comportamento asintotico a 0 per frequenze basse, come mostrato in figura \ref{AA5}.
+\begin{figure}
+\centering
+\caption{Distribuzione delle frequenze nel modello di Debye}\label{AA5}
+\includegraphics[scale=0.5]{AA5}
+\end{figure}
+Dato che la distribuzione è un continuo allora una simile approssimazione considera anche le frequenze come un continuo e ciò è valido solo per frequenze basse per cui la lunghezza d'onda sia superiore al parametro di cella, ovvero per i modi acustici.
+Dato che la funzione di partizione è troppo complicata da ricavare, riportiamo qui direttamente il suo logaritmo:
+\begin{equation}
+\ln Q=-\frac{N\varphi(0)}{2kT}-\int_0^\infty\left[\ln(1-\exp(-h\nu/kT))+\frac{h\nu}{2kT}\right]g(\nu)d\nu
+\end{equation}
+Sfruttando la definizione di energia possiamo ricavarci anche la capacità termica:
+\begin{equation}
+C_v=3Nk\left[4D(u)-\frac{3u}{e^u-1}\right];\quad u=\frac{\Theta_D}{T}
+\end{equation}
+In questa equazione $D$ è una funzione che viene valutata numericamente.
+Il comportamento del modello di Debye nei confronti dei dati sperimentali è decisamente migliore di quello di Einstein, infatti esso prevede correttamente l'andamento in ogni range di temperatura. Tuttavia se sottoposta a test più sensibili questa teoria risulta nuovamente incompleta. Sia il modello di Eistein che quello di Debye sono stati derivati in un periodo storico privo di metodi computazionali, pertanto è logico che non si potessero costruire modelli troppo complicati. Nonostante ciò essi costituiscono dei perfetti esempi di modelli semplici in grando di spiegare qualitativamente il fenomeno fisico.
 \newpage
 \printindex
 \chapter*{Ringraziamenti}
