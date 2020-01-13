@@ -1,0 +1,73 @@
+\BOOKMARK [0][-]{chapter*.1}{Cosa non studiare?}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Capitolo 1. Superficie di energia potenziale \(PES\) e sua analisi}{}% 2
+\BOOKMARK [1][-]{section.1.1}{1.1. Che cos'\350 la PES?}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{1.2. L'energia potenziale \350 funzione della geometria molecolare}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{1.3. I punti stazionari della PES definiscono lo stato del sistema}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{1.4. Ottimizzazione di geometria}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.5}{1.5. Calcolo di frequenze vibrazionali}{chapter.1}% 7
+\BOOKMARK [-1][-]{part.1}{Parte 1. \040Meccanica molecolare}{}% 8
+\BOOKMARK [0][-]{chapter.2}{Capitolo 2. Metodi basati su campi di forza}{part.1}% 9
+\BOOKMARK [1][-]{section.2.1}{2.1. I tipi atomici}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{2.2. Campo di forza}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{2.3. Classificazione dei campi di forza}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{2.4. Esempi di campi di forza}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.5}{2.5. Limiti e vantaggi}{chapter.2}% 14
+\BOOKMARK [-1][-]{part.2}{Parte 2. \040Meccanica quantistica: metodi basati su funzioni d'onda}{}% 15
+\BOOKMARK [0][-]{chapter.3}{Capitolo 3. Metodo di Hartree-Fock}{part.2}% 16
+\BOOKMARK [1][-]{section.3.1}{3.1. Le propriet\340 della funzione d'onda}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{3.2. L'approssimazione di Born-Oppenheimer}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.3}{3.3. Metodi approssimati per risolvere l'equazione di Schr\366dinger}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.4}{3.4. La teoria di Hartree-Fock}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.5}{3.5. Il teorema di Koopman}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.6}{3.6. Approssimazione del set base}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.7}{3.7. Tecniche SCF}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.8}{3.8. Sistemi periodici}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{Capitolo 4. Metodi di correlazione}{part.2}% 25
+\BOOKMARK [1][-]{section.4.1}{4.1. Determinanti di Slater di stati eccitati}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.2}{4.2. Interazione di configurazioni CI}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.3}{4.3. Size Consistency e Size Extensivity}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.4}{4.4. Metodi Multi Configurational SCF MCSCF e CAS}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.5}{4.5. Metodi Many-Body Perturbation Theory MBPT}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.6}{4.6. Metodi Coupled Clusters CC }{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.7}{4.7. Metodi Quantum Monte-Carlo QMC}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Capitolo 5. Set di funzioni base}{part.2}% 33
+\BOOKMARK [1][-]{section.5.1}{5.1. Tipi di funzioni base}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.2}{5.2. Sdoppiamento dei set base e numero di Z}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.3}{5.3. Costruzione di set base}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.4}{5.4. Effective Core Pseudopotential ECP}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.5}{5.5. Basis Set Superposition Error }{chapter.5}% 38
+\BOOKMARK [1][-]{section.5.6}{5.6. Esempi di set base}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.7}{5.7. Funzioni base di Onde piane \040}{chapter.5}% 40
+\BOOKMARK [0][-]{chapter.6}{Capitolo 6. Teoria del funzionale della densit\340}{part.2}% 41
+\BOOKMARK [1][-]{section.6.1}{6.1. La densit\340 elettronica }{chapter.6}% 42
+\BOOKMARK [1][-]{section.6.2}{6.2. Approccio senza orbitali}{chapter.6}% 43
+\BOOKMARK [1][-]{section.6.3}{6.3. La teoria di Kohn-Sham}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.4}{6.4. Matrice di densit\340 ridotta}{chapter.6}% 45
+\BOOKMARK [1][-]{section.6.5}{6.5. Potenziale di scambio e correlazione}{chapter.6}% 46
+\BOOKMARK [1][-]{section.6.6}{6.6. Funzionali di scambio e correlazione}{chapter.6}% 47
+\BOOKMARK [1][-]{section.6.7}{6.7. Considerazioni Computazionali}{chapter.6}% 48
+\BOOKMARK [1][-]{section.6.8}{6.8. Difetti dei metodi DFT}{chapter.6}% 49
+\BOOKMARK [0][-]{chapter.7}{Capitolo 7. Metodi semiempirici}{part.2}% 50
+\BOOKMARK [1][-]{section.7.1}{7.1. I metodi NDDO}{chapter.7}% 51
+\BOOKMARK [1][-]{section.7.2}{7.2. I metodi INDO}{chapter.7}% 52
+\BOOKMARK [1][-]{section.7.3}{7.3. I metodi CNDO}{chapter.7}% 53
+\BOOKMARK [1][-]{section.7.4}{7.4. La parametrizzazione}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.5}{7.5. I metodi di H\374ckel}{chapter.7}% 55
+\BOOKMARK [-1][-]{part.3}{Parte 3. \040Applicazione dei metodi}{}% 56
+\BOOKMARK [0][-]{chapter.8}{Capitolo 8. Termodinamica Statistica}{part.3}% 57
+\BOOKMARK [1][-]{section.8.1}{8.1. Definizioni e concetti preliminari}{chapter.8}% 58
+\BOOKMARK [1][-]{section.8.2}{8.2. Insieme canonico}{chapter.8}% 59
+\BOOKMARK [1][-]{section.8.3}{8.3. Insieme Grancanonico}{chapter.8}% 60
+\BOOKMARK [1][-]{section.8.4}{8.4. Insieme Microcanonico}{chapter.8}% 61
+\BOOKMARK [1][-]{section.8.5}{8.5. Fluttuazioni}{chapter.8}% 62
+\BOOKMARK [1][-]{section.8.6}{8.6. Equivalenza termodinamica degli insiemi}{chapter.8}% 63
+\BOOKMARK [1][-]{section.8.7}{8.7. Seconda legge della termodinamica}{chapter.8}% 64
+\BOOKMARK [1][-]{section.8.8}{8.8. Sistemi di molecole indipendenti}{chapter.8}% 65
+\BOOKMARK [1][-]{section.8.9}{8.9. Variabili termodinamiche e funzioni di partizione}{chapter.8}% 66
+\BOOKMARK [1][-]{section.8.10}{8.10. Decomposizione della funzione di partizione molecolare}{chapter.8}% 67
+\BOOKMARK [0][-]{chapter.9}{Capitolo 9. Applicazione della Termodinamica Statistica: Calcolo della dispersione fononica}{part.3}% 68
+\BOOKMARK [1][-]{section.9.1}{9.1. Fononi e vibrazioni reticolari}{chapter.9}% 69
+\BOOKMARK [1][-]{section.9.2}{9.2. Il modello di Einstein}{chapter.9}% 70
+\BOOKMARK [1][-]{section.9.3}{9.3. Il modello di Debye}{chapter.9}% 71
+\BOOKMARK [0][-]{chapter*.6}{Indice analitico}{part.3}% 72
+\BOOKMARK [0][-]{chapter*.7}{Ringraziamenti}{part.3}% 73

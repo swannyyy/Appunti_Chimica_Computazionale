@@ -1,167 +1,167 @@
-\indexentry{energia !potenziale}{4}
-\indexentry{energia !elettronica}{14}
-\indexentry{gruppo funzionale}{14}
-\indexentry{tipi atomici}{15}
-\indexentry{tipi atomici}{15}
-\indexentry{campo di forza}{15}
-\indexentry{meccanica molecolare}{15}
-\indexentry{ottimizzazione}{15}
-\indexentry{energia !di stretching}{16}
-\indexentry{serie !di Taylor}{16}
-\indexentry{oscillatore armonico}{16}
-\indexentry{potenziale !di Morse}{16}
-\indexentry{energia !di bending}{17}
-\indexentry{energia !torsionale}{18}
-\indexentry{proiezione !di Newman}{18}
-\indexentry{serie !di Fourier}{19}
-\indexentry{bending fuori dal piano}{19}
-\indexentry{energia !di Van der Waals}{20}
-\indexentry{dipoli istantanei}{20}
-\indexentry{potenziale !di Lennard-Jones}{21}
-\indexentry{potenziale !di Buckingham o Hill}{21}
-\indexentry{potenziale !di Morse}{21}
-\indexentry{pseudo-atomi}{22}
-\indexentry{legame !a idrogeno}{22}
-\indexentry{energia !elettrostatica}{22}
-\indexentry{energia !di Van der Waals}{23}
-\indexentry{cariche parziali}{23}
-\indexentry{momento !dipolare}{23}
-\indexentry{energia !di Van der Waals}{23}
-\indexentry{tipi atomici}{24}
-\indexentry{cariche fluttuanti}{24}
-\indexentry{modelli di polarizzazione}{24}
-\indexentry{energia !elettrostatica}{24}
-\indexentry{energia !torsionale}{24}
-\indexentry{energia !elettrostatica}{25}
-\indexentry{Drude !oscillatore di}{25}
-\indexentry{Dipolo puntuale}{25}
-\indexentry{cariche fluttuanti}{25}
-\indexentry{serie !di Taylor}{25}
-\indexentry{energia !elettronica}{26}
-\indexentry{trasferimento di carica}{26}
-\indexentry{Lagrange !moltiplicatori di}{26}
-\indexentry{serie !di Taylor}{27}
-\indexentry{tipi atomici}{28}
-\indexentry{tipi atomici}{29}
-\indexentry{Schr\"{o}dinger !equazione di }{32}
-\indexentry{Born-Oppenheimer}{32}
-\indexentry{particella indipendente}{32}
-\indexentry{Hartree-Fock}{32}
-\indexentry{determinante di Slater}{32}
-\indexentry{determinante di Slater}{33}
-\indexentry{Hartree-Fock}{33}
-\indexentry{stati stazionari}{35}
-\indexentry{Born-Oppenheimer}{36}
-\indexentry{Dirac}{36}
-\indexentry{incroci evitati}{37}
-\indexentry{metodo !variazionale}{38}
-\indexentry{metodo !perturbativo}{38}
-\indexentry{metodo !perturbativo}{39}
-\indexentry{determinante di Slater}{40}
-\indexentry{antisimmetrizzazione}{40}
-\indexentry{spin-orbitali}{40}
-\indexentry{Lagrange !metodo di}{48}
-\indexentry{operatore di Fock}{49}
-\indexentry{spin-orbitali}{51}
-\indexentry{Roothaan-Hall !equazioni di}{52}
-\indexentry{Bloch !funzioni di}{55}
-\indexentry{onde piane}{55}
-\indexentry{orbitali di Bloch}{55}
-\indexentry{correlazione}{57}
-\indexentry{correlazione !statica }{57}
-\indexentry{correlazione !dinamica}{57}
-\indexentry{Frozen Core}{59}
-\indexentry{Frozen Virtuals}{59}
-\indexentry{CI}{59}
-\indexentry{MBPT}{59}
-\indexentry{CC}{59}
-\indexentry{CI}{59}
-\indexentry{Lagrange !metodo di}{60}
-\indexentry{MCSCF}{62}
-\indexentry{CAS}{62}
-\indexentry{MBPT}{63}
-\indexentry{M{\o }ller- Plesset}{66}
-\indexentry{size consistency}{67}
-\indexentry{CC}{68}
-\indexentry{serie di !Taylor}{68}
-\indexentry{Monte Carlo}{69}
-\indexentry{LCAO}{71}
-\indexentry{funzioni base}{71}
-\indexentry{set base}{72}
-\indexentry{STO}{72}
-\indexentry{DFT}{73}
-\indexentry{GTO}{73}
-\indexentry{Set Base !contratti}{77}
-\indexentry{Set Base !aumentati}{78}
-\indexentry{ECP}{78}
-\indexentry{Pseudo Potenziale}{78}
-\indexentry{Dirac}{78}
-\indexentry{BSSE}{79}
-\indexentry{CounterPoise CP}{80}
-\indexentry{Chemical Hamiltonian Approach CHA}{80}
-\indexentry{Bound Function BF}{80}
-\indexentry{set base}{80}
-\indexentry{Set Base !di Pople}{80}
-\indexentry{Set Base !di Dunning}{81}
-\indexentry{Set Base !di Karlsruhe}{81}
-\indexentry{Set Base !di ANO}{81}
-\indexentry{Set Base !correlation consistent}{81}
-\indexentry{Set Base !Polarization consistent}{82}
-\indexentry{Set Base !relativistici}{82}
-\indexentry{Set Base !di onde piane}{82}
-\indexentry{onde piane}{82}
-\indexentry{onde piane}{82}
-\indexentry{densit\IeC {\`a} elettronica}{84}
-\indexentry{Hohenberg-Kohn}{84}
-\indexentry{DFT}{84}
-\indexentry{densit\IeC {\`a} elettronica}{84}
-\indexentry{funzionale}{85}
-\indexentry{DFT !senza orbitali}{85}
-\indexentry{Born-Oppenheimer}{85}
-\indexentry{Hartree-Fock}{85}
-\indexentry{Thomas-Fermi !teoria di}{85}
-\indexentry{Kohn-Sham}{86}
-\indexentry{DFT !matrice densit\IeC {\`a} ridotta}{87}
-\indexentry{Lieb-Oxford !legge di}{91}
-\indexentry{LDA}{91}
-\indexentry{Monte Carlo}{91}
-\indexentry{GGA}{92}
-\indexentry{Becke B}{92}
-\indexentry{Lee-Yang-Parr LYP}{92}
-\indexentry{PBE}{92}
-\indexentry{PW86}{92}
-\indexentry{PW91}{92}
-\indexentry{m-GGA}{92}
-\indexentry{Funzionali ibridi}{92}
-\indexentry{B3LYP}{92}
-\indexentry{Lagrange !metodo di}{93}
-\indexentry{Roothaan-Hall !equazioni di}{93}
-\indexentry{Hohenberg-Kohn}{94}
-\indexentry{correlazione !statica }{94}
-\indexentry{NDDO}{95}
-\indexentry{INDO}{96}
-\indexentry{CNDO}{96}
-\indexentry{H\"uckel}{96}
-\indexentry{Termodinamica statistica}{99}
-\indexentry{Lagrange !metodo di}{99}
-\indexentry{ensamble}{99}
-\indexentry{Maxwell-Boltzman}{101}
-\indexentry{Fermi-Dirac}{101}
-\indexentry{Bose-Einstein}{101}
-\indexentry{termine massimo !metodo del}{102}
-\indexentry{Lagrange !moltiplicatori di}{103}
-\indexentry{approssimazione di Stirling}{103}
-\indexentry{Lagrange !moltiplicatori di}{103}
-\indexentry{funzione di partizione}{104}
-\indexentry{Lagrange !moltiplicatori di}{106}
-\indexentry{temperatura rotazionale}{115}
-\indexentry{temperatura vibrazionale}{116}
-\indexentry{fononi}{117}
-\indexentry{dispersione fononica}{117}
-\indexentry{fononi}{117}
-\indexentry{Bloch !funzioni di}{119}
-\indexentry{Ramo acustico}{121}
-\indexentry{Ramo ottico}{121}
-\indexentry{Einstein !modello di}{122}
-\indexentry{capacit\IeC {\`a} termica}{123}
-\indexentry{Debye !modello di}{124}
+\indexentry{energia !potenziale|hyperpage}{4}
+\indexentry{energia !elettronica|hyperpage}{14}
+\indexentry{gruppo funzionale|hyperpage}{14}
+\indexentry{tipi atomici|hyperpage}{15}
+\indexentry{tipi atomici|hyperpage}{15}
+\indexentry{campo di forza|hyperpage}{15}
+\indexentry{meccanica molecolare|hyperpage}{15}
+\indexentry{ottimizzazione|hyperpage}{15}
+\indexentry{energia !di stretching|hyperpage}{16}
+\indexentry{serie !di Taylor|hyperpage}{16}
+\indexentry{oscillatore armonico|hyperpage}{16}
+\indexentry{potenziale !di Morse|hyperpage}{16}
+\indexentry{energia !di bending|hyperpage}{17}
+\indexentry{energia !torsionale|hyperpage}{18}
+\indexentry{proiezione !di Newman|hyperpage}{18}
+\indexentry{serie !di Fourier|hyperpage}{19}
+\indexentry{bending fuori dal piano|hyperpage}{19}
+\indexentry{energia !di Van der Waals|hyperpage}{20}
+\indexentry{dipoli istantanei|hyperpage}{20}
+\indexentry{potenziale !di Lennard-Jones|hyperpage}{21}
+\indexentry{potenziale !di Buckingham o Hill|hyperpage}{21}
+\indexentry{potenziale !di Morse|hyperpage}{21}
+\indexentry{pseudo-atomi|hyperpage}{22}
+\indexentry{legame !a idrogeno|hyperpage}{22}
+\indexentry{energia !elettrostatica|hyperpage}{22}
+\indexentry{energia !di Van der Waals|hyperpage}{23}
+\indexentry{cariche parziali|hyperpage}{23}
+\indexentry{momento !dipolare|hyperpage}{23}
+\indexentry{energia !di Van der Waals|hyperpage}{23}
+\indexentry{tipi atomici|hyperpage}{24}
+\indexentry{cariche fluttuanti|hyperpage}{24}
+\indexentry{modelli di polarizzazione|hyperpage}{24}
+\indexentry{energia !elettrostatica|hyperpage}{24}
+\indexentry{energia !torsionale|hyperpage}{24}
+\indexentry{energia !elettrostatica|hyperpage}{25}
+\indexentry{Drude !oscillatore di|hyperpage}{25}
+\indexentry{Dipolo puntuale|hyperpage}{25}
+\indexentry{cariche fluttuanti|hyperpage}{25}
+\indexentry{serie !di Taylor|hyperpage}{25}
+\indexentry{energia !elettronica|hyperpage}{26}
+\indexentry{trasferimento di carica|hyperpage}{26}
+\indexentry{Lagrange !moltiplicatori di|hyperpage}{26}
+\indexentry{serie !di Taylor|hyperpage}{27}
+\indexentry{tipi atomici|hyperpage}{28}
+\indexentry{tipi atomici|hyperpage}{29}
+\indexentry{Schr\"{o}dinger !equazione di |hyperpage}{32}
+\indexentry{Born-Oppenheimer|hyperpage}{32}
+\indexentry{particella indipendente|hyperpage}{32}
+\indexentry{Hartree-Fock|hyperpage}{32}
+\indexentry{determinante di Slater|hyperpage}{32}
+\indexentry{determinante di Slater|hyperpage}{33}
+\indexentry{Hartree-Fock|hyperpage}{33}
+\indexentry{stati stazionari|hyperpage}{35}
+\indexentry{Born-Oppenheimer|hyperpage}{36}
+\indexentry{Dirac|hyperpage}{36}
+\indexentry{incroci evitati|hyperpage}{37}
+\indexentry{metodo !variazionale|hyperpage}{38}
+\indexentry{metodo !perturbativo|hyperpage}{38}
+\indexentry{metodo !perturbativo|hyperpage}{39}
+\indexentry{determinante di Slater|hyperpage}{40}
+\indexentry{antisimmetrizzazione|hyperpage}{40}
+\indexentry{spin-orbitali|hyperpage}{40}
+\indexentry{Lagrange !metodo di|hyperpage}{48}
+\indexentry{operatore di Fock|hyperpage}{49}
+\indexentry{spin-orbitali|hyperpage}{51}
+\indexentry{Roothaan-Hall !equazioni di|hyperpage}{52}
+\indexentry{Bloch !funzioni di|hyperpage}{55}
+\indexentry{onde piane|hyperpage}{55}
+\indexentry{orbitali di Bloch|hyperpage}{55}
+\indexentry{correlazione|hyperpage}{57}
+\indexentry{correlazione !statica |hyperpage}{57}
+\indexentry{correlazione !dinamica|hyperpage}{57}
+\indexentry{Frozen Core|hyperpage}{59}
+\indexentry{Frozen Virtuals|hyperpage}{59}
+\indexentry{CI|hyperpage}{59}
+\indexentry{MBPT|hyperpage}{59}
+\indexentry{CC|hyperpage}{59}
+\indexentry{CI|hyperpage}{59}
+\indexentry{Lagrange !metodo di|hyperpage}{60}
+\indexentry{MCSCF|hyperpage}{62}
+\indexentry{CAS|hyperpage}{62}
+\indexentry{MBPT|hyperpage}{63}
+\indexentry{M{\o }ller- Plesset|hyperpage}{66}
+\indexentry{size consistency|hyperpage}{67}
+\indexentry{CC|hyperpage}{68}
+\indexentry{serie di !Taylor|hyperpage}{68}
+\indexentry{Monte Carlo|hyperpage}{69}
+\indexentry{LCAO|hyperpage}{71}
+\indexentry{funzioni base|hyperpage}{71}
+\indexentry{set base|hyperpage}{72}
+\indexentry{STO|hyperpage}{72}
+\indexentry{DFT|hyperpage}{73}
+\indexentry{GTO|hyperpage}{73}
+\indexentry{Set Base !contratti|hyperpage}{77}
+\indexentry{Set Base !aumentati|hyperpage}{78}
+\indexentry{ECP|hyperpage}{78}
+\indexentry{Pseudo Potenziale|hyperpage}{78}
+\indexentry{Dirac|hyperpage}{78}
+\indexentry{BSSE|hyperpage}{79}
+\indexentry{CounterPoise CP|hyperpage}{80}
+\indexentry{Chemical Hamiltonian Approach CHA|hyperpage}{80}
+\indexentry{Bound Function BF|hyperpage}{80}
+\indexentry{set base|hyperpage}{80}
+\indexentry{Set Base !di Pople|hyperpage}{80}
+\indexentry{Set Base !di Dunning|hyperpage}{81}
+\indexentry{Set Base !di Karlsruhe|hyperpage}{81}
+\indexentry{Set Base !di ANO|hyperpage}{81}
+\indexentry{Set Base !correlation consistent|hyperpage}{81}
+\indexentry{Set Base !Polarization consistent|hyperpage}{82}
+\indexentry{Set Base !relativistici|hyperpage}{82}
+\indexentry{Set Base !di onde piane|hyperpage}{82}
+\indexentry{onde piane|hyperpage}{82}
+\indexentry{onde piane|hyperpage}{82}
+\indexentry{densit\IeC {\`a} elettronica|hyperpage}{84}
+\indexentry{Hohenberg-Kohn|hyperpage}{84}
+\indexentry{DFT|hyperpage}{84}
+\indexentry{densit\IeC {\`a} elettronica|hyperpage}{84}
+\indexentry{funzionale|hyperpage}{85}
+\indexentry{DFT !senza orbitali|hyperpage}{85}
+\indexentry{Born-Oppenheimer|hyperpage}{85}
+\indexentry{Hartree-Fock|hyperpage}{85}
+\indexentry{Thomas-Fermi !teoria di|hyperpage}{85}
+\indexentry{Kohn-Sham|hyperpage}{86}
+\indexentry{DFT !matrice densit\IeC {\`a} ridotta|hyperpage}{87}
+\indexentry{Lieb-Oxford !legge di|hyperpage}{91}
+\indexentry{LDA|hyperpage}{91}
+\indexentry{Monte Carlo|hyperpage}{91}
+\indexentry{GGA|hyperpage}{92}
+\indexentry{Becke B|hyperpage}{92}
+\indexentry{Lee-Yang-Parr LYP|hyperpage}{92}
+\indexentry{PBE|hyperpage}{92}
+\indexentry{PW86|hyperpage}{92}
+\indexentry{PW91|hyperpage}{92}
+\indexentry{m-GGA|hyperpage}{92}
+\indexentry{Funzionali ibridi|hyperpage}{92}
+\indexentry{B3LYP|hyperpage}{92}
+\indexentry{Lagrange !metodo di|hyperpage}{93}
+\indexentry{Roothaan-Hall !equazioni di|hyperpage}{93}
+\indexentry{Hohenberg-Kohn|hyperpage}{94}
+\indexentry{correlazione !statica |hyperpage}{94}
+\indexentry{NDDO|hyperpage}{95}
+\indexentry{INDO|hyperpage}{96}
+\indexentry{CNDO|hyperpage}{96}
+\indexentry{H\"uckel|hyperpage}{96}
+\indexentry{Termodinamica statistica|hyperpage}{99}
+\indexentry{Lagrange !metodo di|hyperpage}{99}
+\indexentry{ensamble|hyperpage}{99}
+\indexentry{Maxwell-Boltzman|hyperpage}{101}
+\indexentry{Fermi-Dirac|hyperpage}{101}
+\indexentry{Bose-Einstein|hyperpage}{101}
+\indexentry{termine massimo !metodo del|hyperpage}{102}
+\indexentry{Lagrange !moltiplicatori di|hyperpage}{103}
+\indexentry{approssimazione di Stirling|hyperpage}{103}
+\indexentry{Lagrange !moltiplicatori di|hyperpage}{103}
+\indexentry{funzione di partizione|hyperpage}{104}
+\indexentry{Lagrange !moltiplicatori di|hyperpage}{106}
+\indexentry{temperatura rotazionale|hyperpage}{115}
+\indexentry{temperatura vibrazionale|hyperpage}{116}
+\indexentry{fononi|hyperpage}{117}
+\indexentry{dispersione fononica|hyperpage}{117}
+\indexentry{fononi|hyperpage}{117}
+\indexentry{Bloch !funzioni di|hyperpage}{119}
+\indexentry{Ramo acustico|hyperpage}{121}
+\indexentry{Ramo ottico|hyperpage}{121}
+\indexentry{Einstein !modello di|hyperpage}{122}
+\indexentry{capacit\IeC {\`a} termica|hyperpage}{123}
+\indexentry{Debye !modello di|hyperpage}{124}

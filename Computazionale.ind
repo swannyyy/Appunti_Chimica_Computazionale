@@ -1,200 +1,204 @@
 \begin{theindex}
 
-  \item antisimmetrizzazione, 40
-  \item approssimazione di Stirling, 103
+  \item antisimmetrizzazione, \hyperpage{40}
+  \item approssimazione di Stirling, \hyperpage{103}
 
   \indexspace
 
-  \item B3LYP, 92
-  \item Becke B, 92
-  \item bending fuori dal piano, 19
+  \item B3LYP, \hyperpage{92}
+  \item Becke B, \hyperpage{92}
+  \item bending fuori dal piano, \hyperpage{19}
   \item Bloch 
-    \subitem funzioni di, 55, 119
-  \item Born-Oppenheimer, 32, 36, 85
-  \item Bose-Einstein, 101
-  \item Bound Function BF, 80
-  \item BSSE, 79
+    \subitem funzioni di, \hyperpage{55}, \hyperpage{119}
+  \item Born-Oppenheimer, \hyperpage{32}, \hyperpage{36}, 
+		\hyperpage{85}
+  \item Bose-Einstein, \hyperpage{101}
+  \item Bound Function BF, \hyperpage{80}
+  \item BSSE, \hyperpage{79}
 
   \indexspace
 
-  \item campo di forza, 15
-  \item capacit\IeC {\`a} termica, 123
-  \item cariche fluttuanti, 24, 25
-  \item cariche parziali, 23
-  \item CAS, 62
-  \item CC, 59, 68
-  \item Chemical Hamiltonian Approach CHA, 80
-  \item CI, 59
-  \item CNDO, 96
-  \item correlazione, 57
+  \item campo di forza, \hyperpage{15}
+  \item capacit\IeC {\`a} termica, \hyperpage{123}
+  \item cariche fluttuanti, \hyperpage{24, 25}
+  \item cariche parziali, \hyperpage{23}
+  \item CAS, \hyperpage{62}
+  \item CC, \hyperpage{59}, \hyperpage{68}
+  \item Chemical Hamiltonian Approach CHA, \hyperpage{80}
+  \item CI, \hyperpage{59}
+  \item CNDO, \hyperpage{96}
+  \item correlazione, \hyperpage{57}
   \item correlazione 
-    \subitem dinamica, 57
-    \subitem statica , 57, 94
-  \item CounterPoise CP, 80
+    \subitem dinamica, \hyperpage{57}
+    \subitem statica , \hyperpage{57}, \hyperpage{94}
+  \item CounterPoise CP, \hyperpage{80}
 
   \indexspace
 
   \item Debye 
-    \subitem modello di, 124
-  \item densit\IeC {\`a} elettronica, 84
-  \item determinante di Slater, 32, 33, 40
-  \item DFT, 73, 84
+    \subitem modello di, \hyperpage{124}
+  \item densit\IeC {\`a} elettronica, \hyperpage{84}
+  \item determinante di Slater, \hyperpage{32, 33}, \hyperpage{40}
+  \item DFT, \hyperpage{73}, \hyperpage{84}
   \item DFT 
-    \subitem matrice densit\IeC {\`a} ridotta, 87
-    \subitem senza orbitali, 85
-  \item dipoli istantanei, 20
-  \item Dipolo puntuale, 25
-  \item Dirac, 36, 78
-  \item dispersione fononica, 117
+    \subitem matrice densit\IeC {\`a} ridotta, \hyperpage{87}
+    \subitem senza orbitali, \hyperpage{85}
+  \item dipoli istantanei, \hyperpage{20}
+  \item Dipolo puntuale, \hyperpage{25}
+  \item Dirac, \hyperpage{36}, \hyperpage{78}
+  \item dispersione fononica, \hyperpage{117}
   \item Drude 
-    \subitem oscillatore di, 25
+    \subitem oscillatore di, \hyperpage{25}
 
   \indexspace
 
-  \item ECP, 78
+  \item ECP, \hyperpage{78}
   \item Einstein 
-    \subitem modello di, 122
+    \subitem modello di, \hyperpage{122}
   \item energia 
-    \subitem di bending, 17
-    \subitem di stretching, 16
-    \subitem di Van der Waals, 20, 23
-    \subitem elettronica, 14, 26
-    \subitem elettrostatica, 22, 24, 25
-    \subitem potenziale, 4
-    \subitem torsionale, 18, 24
-  \item ensamble, 99
+    \subitem di bending, \hyperpage{17}
+    \subitem di stretching, \hyperpage{16}
+    \subitem di Van der Waals, \hyperpage{20}, \hyperpage{23}
+    \subitem elettronica, \hyperpage{14}, \hyperpage{26}
+    \subitem elettrostatica, \hyperpage{22}, \hyperpage{24, 25}
+    \subitem potenziale, \hyperpage{4}
+    \subitem torsionale, \hyperpage{18}, \hyperpage{24}
+  \item ensamble, \hyperpage{99}
 
   \indexspace
 
-  \item Fermi-Dirac, 101
-  \item fononi, 117
-  \item Frozen Core, 59
-  \item Frozen Virtuals, 59
-  \item funzionale, 85
-  \item Funzionali ibridi, 92
-  \item funzione di partizione, 104
-  \item funzioni base, 71
+  \item Fermi-Dirac, \hyperpage{101}
+  \item fononi, \hyperpage{117}
+  \item Frozen Core, \hyperpage{59}
+  \item Frozen Virtuals, \hyperpage{59}
+  \item funzionale, \hyperpage{85}
+  \item Funzionali ibridi, \hyperpage{92}
+  \item funzione di partizione, \hyperpage{104}
+  \item funzioni base, \hyperpage{71}
 
   \indexspace
 
-  \item GGA, 92
-  \item gruppo funzionale, 14
-  \item GTO, 73
+  \item GGA, \hyperpage{92}
+  \item gruppo funzionale, \hyperpage{14}
+  \item GTO, \hyperpage{73}
 
   \indexspace
 
-  \item H\"uckel, 96
-  \item Hartree-Fock, 32, 33, 85
-  \item Hohenberg-Kohn, 84, 94
+  \item H\"uckel, \hyperpage{96}
+  \item Hartree-Fock, \hyperpage{32, 33}, \hyperpage{85}
+  \item Hohenberg-Kohn, \hyperpage{84}, \hyperpage{94}
 
   \indexspace
 
-  \item incroci evitati, 37
-  \item INDO, 96
+  \item incroci evitati, \hyperpage{37}
+  \item INDO, \hyperpage{96}
 
   \indexspace
 
-  \item Kohn-Sham, 86
+  \item Kohn-Sham, \hyperpage{86}
 
   \indexspace
 
   \item Lagrange 
-    \subitem metodo di, 48, 60, 93, 99
-    \subitem moltiplicatori di, 26, 103, 106
-  \item LCAO, 71
-  \item LDA, 91
-  \item Lee-Yang-Parr LYP, 92
+    \subitem metodo di, \hyperpage{48}, \hyperpage{60}, \hyperpage{93}, 
+		\hyperpage{99}
+    \subitem moltiplicatori di, \hyperpage{26}, \hyperpage{103}, 
+		\hyperpage{106}
+  \item LCAO, \hyperpage{71}
+  \item LDA, \hyperpage{91}
+  \item Lee-Yang-Parr LYP, \hyperpage{92}
   \item legame 
-    \subitem a idrogeno, 22
+    \subitem a idrogeno, \hyperpage{22}
   \item Lieb-Oxford 
-    \subitem legge di, 91
+    \subitem legge di, \hyperpage{91}
 
   \indexspace
 
-  \item m-GGA, 92
-  \item Maxwell-Boltzman, 101
-  \item MBPT, 59, 63
-  \item MCSCF, 62
-  \item meccanica molecolare, 15
+  \item m-GGA, \hyperpage{92}
+  \item Maxwell-Boltzman, \hyperpage{101}
+  \item MBPT, \hyperpage{59}, \hyperpage{63}
+  \item MCSCF, \hyperpage{62}
+  \item meccanica molecolare, \hyperpage{15}
   \item metodo 
-    \subitem perturbativo, 38, 39
-    \subitem variazionale, 38
-  \item modelli di polarizzazione, 24
+    \subitem perturbativo, \hyperpage{38, 39}
+    \subitem variazionale, \hyperpage{38}
+  \item modelli di polarizzazione, \hyperpage{24}
   \item momento 
-    \subitem dipolare, 23
-  \item Monte Carlo, 69, 91
-  \item M{\o }ller- Plesset, 66
+    \subitem dipolare, \hyperpage{23}
+  \item Monte Carlo, \hyperpage{69}, \hyperpage{91}
+  \item M{\o }ller- Plesset, \hyperpage{66}
 
   \indexspace
 
-  \item NDDO, 95
+  \item NDDO, \hyperpage{95}
 
   \indexspace
 
-  \item onde piane, 55, 82
-  \item operatore di Fock, 49
-  \item orbitali di Bloch, 55
-  \item oscillatore armonico, 16
-  \item ottimizzazione, 15
+  \item onde piane, \hyperpage{55}, \hyperpage{82}
+  \item operatore di Fock, \hyperpage{49}
+  \item orbitali di Bloch, \hyperpage{55}
+  \item oscillatore armonico, \hyperpage{16}
+  \item ottimizzazione, \hyperpage{15}
 
   \indexspace
 
-  \item particella indipendente, 32
-  \item PBE, 92
+  \item particella indipendente, \hyperpage{32}
+  \item PBE, \hyperpage{92}
   \item potenziale 
-    \subitem di Buckingham o Hill, 21
-    \subitem di Lennard-Jones, 21
-    \subitem di Morse, 16, 21
+    \subitem di Buckingham o Hill, \hyperpage{21}
+    \subitem di Lennard-Jones, \hyperpage{21}
+    \subitem di Morse, \hyperpage{16}, \hyperpage{21}
   \item proiezione 
-    \subitem di Newman, 18
-  \item Pseudo Potenziale, 78
-  \item pseudo-atomi, 22
-  \item PW86, 92
-  \item PW91, 92
+    \subitem di Newman, \hyperpage{18}
+  \item Pseudo Potenziale, \hyperpage{78}
+  \item pseudo-atomi, \hyperpage{22}
+  \item PW86, \hyperpage{92}
+  \item PW91, \hyperpage{92}
 
   \indexspace
 
-  \item Ramo acustico, 121
-  \item Ramo ottico, 121
+  \item Ramo acustico, \hyperpage{121}
+  \item Ramo ottico, \hyperpage{121}
   \item Roothaan-Hall 
-    \subitem equazioni di, 52, 93
+    \subitem equazioni di, \hyperpage{52}, \hyperpage{93}
 
   \indexspace
 
   \item Schr\"{o}dinger 
-    \subitem equazione di , 32
+    \subitem equazione di , \hyperpage{32}
   \item serie 
-    \subitem di Fourier, 19
-    \subitem di Taylor, 16, 25, 27
+    \subitem di Fourier, \hyperpage{19}
+    \subitem di Taylor, \hyperpage{16}, \hyperpage{25}, \hyperpage{27}
   \item serie di 
-    \subitem Taylor, 68
-  \item set base, 72, 80
+    \subitem Taylor, \hyperpage{68}
+  \item set base, \hyperpage{72}, \hyperpage{80}
   \item Set Base 
-    \subitem aumentati, 78
-    \subitem contratti, 77
-    \subitem correlation consistent, 81
-    \subitem di ANO, 81
-    \subitem di Dunning, 81
-    \subitem di Karlsruhe, 81
-    \subitem di onde piane, 82
-    \subitem di Pople, 80
-    \subitem Polarization consistent, 82
-    \subitem relativistici, 82
-  \item size consistency, 67
-  \item spin-orbitali, 40, 51
-  \item stati stazionari, 35
-  \item STO, 72
+    \subitem aumentati, \hyperpage{78}
+    \subitem contratti, \hyperpage{77}
+    \subitem correlation consistent, \hyperpage{81}
+    \subitem di ANO, \hyperpage{81}
+    \subitem di Dunning, \hyperpage{81}
+    \subitem di Karlsruhe, \hyperpage{81}
+    \subitem di onde piane, \hyperpage{82}
+    \subitem di Pople, \hyperpage{80}
+    \subitem Polarization consistent, \hyperpage{82}
+    \subitem relativistici, \hyperpage{82}
+  \item size consistency, \hyperpage{67}
+  \item spin-orbitali, \hyperpage{40}, \hyperpage{51}
+  \item stati stazionari, \hyperpage{35}
+  \item STO, \hyperpage{72}
 
   \indexspace
 
-  \item temperatura rotazionale, 115
-  \item temperatura vibrazionale, 116
+  \item temperatura rotazionale, \hyperpage{115}
+  \item temperatura vibrazionale, \hyperpage{116}
   \item termine massimo 
-    \subitem metodo del, 102
-  \item Termodinamica statistica, 99
+    \subitem metodo del, \hyperpage{102}
+  \item Termodinamica statistica, \hyperpage{99}
   \item Thomas-Fermi 
-    \subitem teoria di, 85
-  \item tipi atomici, 15, 24, 28, 29
-  \item trasferimento di carica, 26
+    \subitem teoria di, \hyperpage{85}
+  \item tipi atomici, \hyperpage{15}, \hyperpage{24}, 
+		\hyperpage{28, 29}
+  \item trasferimento di carica, \hyperpage{26}
 
 \end{theindex}

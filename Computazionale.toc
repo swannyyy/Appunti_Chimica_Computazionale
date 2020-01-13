@@ -1,161 +1,161 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\tocchapter {Capitolo}{}{Cosa non studiare?}}{3}
-\contentsline {chapter}{\tocchapter {Capitolo}{1}{Superficie di energia potenziale (PES) e sua analisi}}{4}
-\contentsline {section}{\tocsection {}{1.1}{Che cos'\IeC {\`e} la PES?}}{4}
-\contentsline {section}{\tocsection {}{1.2}{L'energia potenziale \IeC {\`e} funzione della geometria molecolare}}{5}
-\contentsline {subsection}{\tocsubsection {}{1.2.1}{Un'altra definizione della geometria}}{5}
-\contentsline {section}{\tocsection {}{1.3}{I punti stazionari della PES definiscono lo stato del sistema}}{5}
-\contentsline {subsection}{\tocsubsection {}{1.3.1}{Geometrie di equilibrio}}{6}
-\contentsline {subsection}{\tocsubsection {}{1.3.2}{Strutture di transizione}}{6}
-\contentsline {section}{\tocsection {}{1.4}{Ottimizzazione di geometria}}{7}
-\contentsline {subsection}{\tocsubsection {}{1.4.1}{Metodi quasi-Newton}}{8}
-\contentsline {subsection}{\tocsubsection {}{1.4.2}{Efficienza di metodi quasi Newton}}{9}
-\contentsline {section}{\tocsection {}{1.5}{Calcolo di frequenze vibrazionali}}{10}
-\contentsline {subsection}{\tocsubsection {}{1.5.1}{Passaggi del calcolo}}{11}
-\contentsline {part}{Parte\ 1. \enspace \noindent Meccanica molecolare}{13}
-\contentsline {chapter}{\tocchapter {Capitolo}{2}{Metodi basati su campi di forza}}{14}
-\contentsline {section}{\tocsection {}{2.1}{I tipi atomici}}{14}
-\contentsline {section}{\tocsection {}{2.2}{Campo di forza}}{15}
-\contentsline {subsection}{\tocsubsection {}{2.2.1}{L'energia di stretching }}{16}
-\contentsline {subsection}{\tocsubsection {}{2.2.2}{L'energia di bending }}{17}
-\contentsline {subsection}{\tocsubsection {}{2.2.3}{L'energia torsionale }}{18}
-\contentsline {subsection}{\tocsubsection {}{2.2.4}{L'energia di Van der Waals}}{20}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.1}{L'origine del fenomeno}}{20}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.2}{La forma funzionale}}{20}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.3}{Il potenziale di Lennard-Jones}}{21}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.4}{Il potenziale di Buckingham o Hill}}{21}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.5}{Il potenziale di Morse}}{21}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.6}{Parametrizzazione dei potenziali}}{22}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.7}{Il legame a idrogeno }}{22}
-\contentsline {subsection}{\tocsubsection {}{2.2.5}{L'energia elettrostatica: Cariche atomiche}}{22}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.5.1}{Il metodo delle cariche parziali}}{23}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.5.2}{Il metodo dei dipoli}}{23}
-\contentsline {subsection}{\tocsubsection {}{2.2.6}{L'energia elettrostatica: Multipoli atomici}}{24}
-\contentsline {subsection}{\tocsubsection {}{2.2.7}{L'energia elettrostatica: Polarizzabilit\IeC {\`a} e effetti di penetrazione di carica}}{25}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.1}{Modello delle cariche fluttuanti}}{25}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.2}{Modello dell'oscillatore di Drude}}{26}
-\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.3}{Modello dei dipoli puntuali}}{26}
-\contentsline {subsection}{\tocsubsection {}{2.2.8}{I termini energetici incrociati}}{27}
-\contentsline {section}{\tocsection {}{2.3}{Classificazione dei campi di forza}}{28}
-\contentsline {section}{\tocsection {}{2.4}{Esempi di campi di forza}}{29}
-\contentsline {section}{\tocsection {}{2.5}{Limiti e vantaggi}}{29}
-\contentsline {part}{Parte\ 2. \enspace \noindent Meccanica quantistica: metodi basati su funzioni d'onda}{31}
-\contentsline {chapter}{\tocchapter {Capitolo}{3}{Metodo di Hartree-Fock}}{32}
-\contentsline {section}{\tocsection {}{3.1}{Le propriet\IeC {\`a} della funzione d'onda}}{33}
-\contentsline {subsection}{\tocsubsection {}{3.1.1}{La definizione di uno stato quantistico}}{34}
-\contentsline {subsection}{\tocsubsection {}{3.1.2}{Stati stazionari}}{35}
-\contentsline {section}{\tocsection {}{3.2}{L'approssimazione di Born-Oppenheimer}}{36}
-\contentsline {section}{\tocsection {}{3.3}{Metodi approssimati per risolvere l'equazione di Schr\"odinger}}{38}
-\contentsline {subsection}{\tocsubsection {}{3.3.1}{Metodo variazionale e variazionale lineare}}{38}
-\contentsline {subsection}{\tocsubsection {}{3.3.2}{Metodo perturbativo}}{39}
-\contentsline {section}{\tocsection {}{3.4}{La teoria di Hartree-Fock}}{40}
-\contentsline {subsection}{\tocsubsection {}{3.4.1}{La definizione della funzione d'onda multielettronica}}{40}
-\contentsline {subsubsection}{\tocsubsubsection {}{3.4.1.1}{L'introduzione dello spin}}{41}
-\contentsline {subsection}{\tocsubsection {}{3.4.2}{La definizione dell'hamiltoniano}}{43}
-\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.1}{Integrali monoelettronici}}{44}
-\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.2}{Integrali bielettronici}}{45}
-\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.3}{Definizione degli elementi delle matrici di coulomb e di scambio}}{47}
-\contentsline {subsection}{\tocsubsection {}{3.4.3}{La minimizzazione dell'energia con il metodo variazionale}}{48}
-\contentsline {section}{\tocsection {}{3.5}{Il teorema di Koopman}}{50}
-\contentsline {section}{\tocsection {}{3.6}{Approssimazione del set base}}{51}
-\contentsline {section}{\tocsection {}{3.7}{Tecniche SCF}}{54}
-\contentsline {section}{\tocsection {}{3.8}{Sistemi periodici}}{55}
-\contentsline {chapter}{\tocchapter {Capitolo}{4}{Metodi di correlazione}}{57}
-\contentsline {section}{\tocsection {}{4.1}{Determinanti di Slater di stati eccitati}}{58}
-\contentsline {section}{\tocsection {}{4.2}{Interazione di configurazioni CI}}{59}
-\contentsline {subsection}{\tocsubsection {}{4.2.1}{Elementi della matrice CI}}{60}
-\contentsline {section}{\tocsection {}{4.3}{Size Consistency e Size Extensivity}}{61}
-\contentsline {section}{\tocsection {}{4.4}{Metodi Multi Configurational SCF MCSCF e CAS}}{62}
-\contentsline {subsection}{\tocsubsection {}{4.4.1}{MCSCF}}{62}
-\contentsline {subsection}{\tocsubsection {}{4.4.2}{CAS}}{62}
-\contentsline {section}{\tocsection {}{4.5}{Metodi Many-Body Perturbation Theory MBPT}}{63}
-\contentsline {subsection}{\tocsubsection {}{4.5.1}{L'energia nei metodi MBPT}}{64}
-\contentsline {subsection}{\tocsubsection {}{4.5.2}{La teoria di M{\o }ller- Plesset}}{66}
-\contentsline {section}{\tocsection {}{4.6}{Metodi Coupled Clusters CC }}{68}
-\contentsline {section}{\tocsection {}{4.7}{Metodi Quantum Monte-Carlo QMC}}{69}
-\contentsline {chapter}{\tocchapter {Capitolo}{5}{Set di funzioni base}}{71}
-\contentsline {section}{\tocsection {}{5.1}{Tipi di funzioni base}}{72}
-\contentsline {subsection}{\tocsubsection {}{5.1.1}{STO }}{72}
-\contentsline {subsection}{\tocsubsection {}{5.1.2}{GTO}}{73}
-\contentsline {section}{\tocsection {}{5.2}{Sdoppiamento dei set base e numero di Z}}{74}
-\contentsline {section}{\tocsection {}{5.3}{Costruzione di set base}}{76}
-\contentsline {subsection}{\tocsubsection {}{5.3.1}{Esponenti di funzioni primitive}}{76}
-\contentsline {subsection}{\tocsubsection {}{5.3.2}{Set base con esponenti parametrizzati}}{77}
-\contentsline {subsection}{\tocsubsection {}{5.3.3}{Set base contratti}}{77}
-\contentsline {subsection}{\tocsubsection {}{5.3.4}{Set base aumentati}}{78}
-\contentsline {section}{\tocsection {}{5.4}{Effective Core Pseudopotential ECP}}{78}
-\contentsline {section}{\tocsection {}{5.5}{Basis Set Superposition Error }}{79}
-\contentsline {subsection}{\tocsubsection {}{5.5.1}{Metodi di risoluzione del BSSE}}{80}
-\contentsline {section}{\tocsection {}{5.6}{Esempi di set base}}{80}
-\contentsline {subsection}{\tocsubsection {}{5.6.1}{Pople }}{80}
-\contentsline {subsection}{\tocsubsection {}{5.6.2}{Dunning-Huzinaga}}{81}
-\contentsline {subsection}{\tocsubsection {}{5.6.3}{Karlsruhe-Type}}{81}
-\contentsline {subsection}{\tocsubsection {}{5.6.4}{Atomic Natural Orbitals ANO's }}{81}
-\contentsline {subsection}{\tocsubsection {}{5.6.5}{Correlation Consistent cc-}}{81}
-\contentsline {subsection}{\tocsubsection {}{5.6.6}{Polarization consistent pc-}}{82}
-\contentsline {subsection}{\tocsubsection {}{5.6.7}{Relativistici }}{82}
-\contentsline {section}{\tocsection {}{5.7}{Funzioni base di Onde piane }}{82}
-\contentsline {chapter}{\tocchapter {Capitolo}{6}{Teoria del funzionale della densit\IeC {\`a}}}{84}
-\contentsline {section}{\tocsection {}{6.1}{La densit\IeC {\`a} elettronica }}{84}
-\contentsline {section}{\tocsection {}{6.2}{Approccio senza orbitali}}{85}
-\contentsline {section}{\tocsection {}{6.3}{La teoria di Kohn-Sham}}{86}
-\contentsline {section}{\tocsection {}{6.4}{Matrice di densit\IeC {\`a} ridotta}}{87}
-\contentsline {section}{\tocsection {}{6.5}{Potenziale di scambio e correlazione}}{89}
-\contentsline {section}{\tocsection {}{6.6}{Funzionali di scambio e correlazione}}{90}
-\contentsline {subsection}{\tocsubsection {}{6.6.1}{Local Density Approximation LDA }}{91}
-\contentsline {subsection}{\tocsubsection {}{6.6.2}{Generalized Gradient Approximation GGA }}{92}
-\contentsline {subsection}{\tocsubsection {}{6.6.3}{Meta-GGA }}{92}
-\contentsline {subsection}{\tocsubsection {}{6.6.4}{Funzionali Ibridi }}{92}
-\contentsline {section}{\tocsection {}{6.7}{Considerazioni Computazionali}}{93}
-\contentsline {section}{\tocsection {}{6.8}{Difetti dei metodi DFT}}{94}
-\contentsline {paragraph}{\tocparagraph {}{}{Il teorema di Hohenberg-Kohn assicura che la densit\IeC {\`a} elettronica contenga tutta l'informazione di cui abbiamo bisogno. Tuttavia nell'approssimazione di Khon-Sham consideriamo valida una matrice di densit\IeC {\`a} ridotta troncata al primo ordine. Questa approssimazione potrebbe non valere per sistemi con una gran quantit\IeC {\`a} di correlazione statica. Per superare questo problema si sviluppa la matrice di densit\IeC {\`a} ridotta come combinazione lineare di pi\IeC {\`u} determinanti di Slater. Si ottengono cos\IeC {\`\i } i metodi \emph {ensemble DFT}.\\}}{94}
-\contentsline {paragraph}{\tocparagraph {}{}{I sistemi radical anionici e radical cationici non vengono descritti bene. Infatti si generano cariche frazionarie e geometrie elongate. Questi problemi sono da imputare alla incompeta cancellazione del contributo di autointerazione coulombiana.\\}}{94}
-\contentsline {paragraph}{\tocparagraph {}{}{Le differenze di energia tra stati a diversa molteplicit\IeC {\`a} di spin sono spesso inesatte. Ci\IeC {\`o} \IeC {\`e} dovuto ai difetti nella definizione dei funzionali di correlazione e scambio.\\}}{94}
-\contentsline {paragraph}{\tocparagraph {}{}{Talvolta componenti isotrope del momento di spin presentano una sensibile anisotropia anche in assenza di campi magnetici esterni. Ci\IeC {\`o} \IeC {\`e} dovuto alle differenze di densit\IeC {\`a} elettronica utilizzata per descrivere le diverse componenti. Pu\IeC {\`o} essere evitato omogeneizzando la densit\IeC {\`a} elettronica.}}{94}
-\contentsline {chapter}{\tocchapter {Capitolo}{7}{Metodi semiempirici}}{95}
-\contentsline {section}{\tocsection {}{7.1}{I metodi NDDO}}{95}
-\contentsline {section}{\tocsection {}{7.2}{I metodi INDO}}{96}
-\contentsline {section}{\tocsection {}{7.3}{I metodi CNDO}}{96}
-\contentsline {section}{\tocsection {}{7.4}{La parametrizzazione}}{96}
-\contentsline {section}{\tocsection {}{7.5}{I metodi di H\"uckel}}{96}
-\contentsline {subsection}{\tocsubsection {}{7.5.1}{Extended HT}}{96}
-\contentsline {subsection}{\tocsubsection {}{7.5.2}{HT}}{97}
-\contentsline {part}{Parte\ 3. \enspace \noindent Applicazione dei metodi}{98}
-\contentsline {chapter}{\tocchapter {Capitolo}{8}{Termodinamica Statistica}}{99}
-\contentsline {section}{\tocsection {}{8.1}{Definizioni e concetti preliminari}}{99}
-\contentsline {subsection}{\tocsubsection {}{8.1.1}{Postulati della termodinamica statistica}}{100}
-\contentsline {section}{\tocsection {}{8.2}{Insieme canonico}}{101}
-\contentsline {subsection}{\tocsubsection {}{8.2.1}{Metodo del termine massimo}}{102}
-\contentsline {subsection}{\tocsubsection {}{8.2.2}{Derivazione della probabilit\IeC {\`a}}}{103}
-\contentsline {subsection}{\tocsubsection {}{8.2.3}{Determinazione dei moltiplicatori di Lagrange}}{103}
-\contentsline {subsubsection}{\tocsubsubsection {}{8.2.3.1}{Determinazione di $\alpha $}}{103}
-\contentsline {subsubsection}{\tocsubsubsection {}{8.2.3.2}{Determinazione di $\beta $}}{104}
-\contentsline {subsection}{\tocsubsection {}{8.2.4}{Derivazione dell'equazione fondamentale dell'insieme canonico}}{105}
-\contentsline {section}{\tocsection {}{8.3}{Insieme Grancanonico}}{105}
-\contentsline {subsection}{\tocsubsection {}{8.3.1}{Determinazione dei moltiplicatori di Lagrange}}{106}
-\contentsline {subsection}{\tocsubsection {}{8.3.2}{Derivazione dell'equazione fondamentale dell'insieme grancanonico}}{106}
-\contentsline {section}{\tocsection {}{8.4}{Insieme Microcanonico}}{107}
-\contentsline {section}{\tocsection {}{8.5}{Fluttuazioni}}{108}
-\contentsline {subsection}{\tocsubsection {}{8.5.1}{Fluttuazioni di $E$}}{108}
-\contentsline {subsection}{\tocsubsection {}{8.5.2}{Fluttuazioni di $N$}}{109}
-\contentsline {section}{\tocsection {}{8.6}{Equivalenza termodinamica degli insiemi}}{110}
-\contentsline {subsection}{\tocsubsection {}{8.6.1}{Equivalenza tra insiemi Grancanonico e Canonico}}{110}
-\contentsline {subsection}{\tocsubsection {}{8.6.2}{Equivalenza tra insiemi Canonico e Microcanonico}}{110}
-\contentsline {section}{\tocsection {}{8.7}{Seconda legge della termodinamica}}{111}
-\contentsline {section}{\tocsection {}{8.8}{Sistemi di molecole indipendenti}}{112}
-\contentsline {section}{\tocsection {}{8.9}{Variabili termodinamiche e funzioni di partizione}}{113}
-\contentsline {section}{\tocsection {}{8.10}{Decomposizione della funzione di partizione molecolare}}{113}
-\contentsline {subsection}{\tocsubsection {}{8.10.1}{Funzione di partizione traslazionale}}{114}
-\contentsline {subsection}{\tocsubsection {}{8.10.2}{Funzione di partizione rotazionale}}{114}
-\contentsline {subsection}{\tocsubsection {}{8.10.3}{Funzione di partizione vibrazionale}}{115}
-\contentsline {subsection}{\tocsubsection {}{8.10.4}{Funzione di partizione elettronica}}{116}
-\contentsline {chapter}{\tocchapter {Capitolo}{9}{Applicazione della Termodinamica Statistica: Calcolo della dispersione fononica}}{117}
-\contentsline {section}{\tocsection {}{9.1}{Fononi e vibrazioni reticolari}}{117}
-\contentsline {subsection}{\tocsubsection {}{9.1.1}{Descrizione matematica del fenomeno}}{118}
-\contentsline {subsection}{\tocsubsection {}{9.1.2}{Cristalli di atomici:formalismo matematico}}{120}
-\contentsline {subsection}{\tocsubsection {}{9.1.3}{Comportamento al confine della FBZ}}{122}
-\contentsline {section}{\tocsection {}{9.2}{Il modello di Einstein}}{122}
-\contentsline {section}{\tocsection {}{9.3}{Il modello di Debye}}{124}
-\contentsline {chapter}{\tocchapter {Capitolo}{}{Indice analitico}}{125}
-\contentsline {chapter}{\tocchapter {Capitolo}{}{Ringraziamenti}}{127}
+\contentsline {chapter}{\tocchapter {Capitolo}{}{Cosa non studiare?}}{3}{chapter*.1}
+\contentsline {chapter}{\tocchapter {Capitolo}{1}{Superficie di energia potenziale (PES) e sua analisi}}{4}{chapter.1}
+\contentsline {section}{\tocsection {}{1.1}{Che cos'\IeC {\`e} la PES?}}{4}{section.1.1}
+\contentsline {section}{\tocsection {}{1.2}{L'energia potenziale \IeC {\`e} funzione della geometria molecolare}}{5}{section.1.2}
+\contentsline {subsection}{\tocsubsection {}{1.2.1}{Un'altra definizione della geometria}}{5}{subsection.1.2.1}
+\contentsline {section}{\tocsection {}{1.3}{I punti stazionari della PES definiscono lo stato del sistema}}{5}{section.1.3}
+\contentsline {subsection}{\tocsubsection {}{1.3.1}{Geometrie di equilibrio}}{6}{subsection.1.3.1}
+\contentsline {subsection}{\tocsubsection {}{1.3.2}{Strutture di transizione}}{6}{subsection.1.3.2}
+\contentsline {section}{\tocsection {}{1.4}{Ottimizzazione di geometria}}{7}{section.1.4}
+\contentsline {subsection}{\tocsubsection {}{1.4.1}{Metodi quasi-Newton}}{8}{subsection.1.4.1}
+\contentsline {subsection}{\tocsubsection {}{1.4.2}{Efficienza di metodi quasi Newton}}{9}{subsection.1.4.2}
+\contentsline {section}{\tocsection {}{1.5}{Calcolo di frequenze vibrazionali}}{10}{section.1.5}
+\contentsline {subsection}{\tocsubsection {}{1.5.1}{Passaggi del calcolo}}{11}{subsection.1.5.1}
+\contentsline {part}{Parte\ 1. \enspace \noindent Meccanica molecolare}{13}{part.1}
+\contentsline {chapter}{\tocchapter {Capitolo}{2}{Metodi basati su campi di forza}}{14}{chapter.2}
+\contentsline {section}{\tocsection {}{2.1}{I tipi atomici}}{14}{section.2.1}
+\contentsline {section}{\tocsection {}{2.2}{Campo di forza}}{15}{section.2.2}
+\contentsline {subsection}{\tocsubsection {}{2.2.1}{L'energia di stretching }}{16}{subsection.2.2.1}
+\contentsline {subsection}{\tocsubsection {}{2.2.2}{L'energia di bending }}{17}{subsection.2.2.2}
+\contentsline {subsection}{\tocsubsection {}{2.2.3}{L'energia torsionale }}{18}{subsection.2.2.3}
+\contentsline {subsection}{\tocsubsection {}{2.2.4}{L'energia di Van der Waals}}{20}{subsection.2.2.4}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.1}{L'origine del fenomeno}}{20}{subsubsection.2.2.4.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.2}{La forma funzionale}}{20}{subsubsection.2.2.4.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.3}{Il potenziale di Lennard-Jones}}{21}{subsubsection.2.2.4.3}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.4}{Il potenziale di Buckingham o Hill}}{21}{subsubsection.2.2.4.4}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.5}{Il potenziale di Morse}}{21}{subsubsection.2.2.4.5}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.6}{Parametrizzazione dei potenziali}}{22}{subsubsection.2.2.4.6}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.4.7}{Il legame a idrogeno }}{22}{subsubsection.2.2.4.7}
+\contentsline {subsection}{\tocsubsection {}{2.2.5}{L'energia elettrostatica: Cariche atomiche}}{22}{subsection.2.2.5}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.5.1}{Il metodo delle cariche parziali}}{23}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.5.2}{Il metodo dei dipoli}}{23}{subsubsection.2.2.5.2}
+\contentsline {subsection}{\tocsubsection {}{2.2.6}{L'energia elettrostatica: Multipoli atomici}}{24}{subsection.2.2.6}
+\contentsline {subsection}{\tocsubsection {}{2.2.7}{L'energia elettrostatica: Polarizzabilit\IeC {\`a} e effetti di penetrazione di carica}}{25}{subsection.2.2.7}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.1}{Modello delle cariche fluttuanti}}{25}{subsubsection.2.2.7.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.2}{Modello dell'oscillatore di Drude}}{26}{subsubsection.2.2.7.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{2.2.7.3}{Modello dei dipoli puntuali}}{26}{subsubsection.2.2.7.3}
+\contentsline {subsection}{\tocsubsection {}{2.2.8}{I termini energetici incrociati}}{27}{subsection.2.2.8}
+\contentsline {section}{\tocsection {}{2.3}{Classificazione dei campi di forza}}{28}{section.2.3}
+\contentsline {section}{\tocsection {}{2.4}{Esempi di campi di forza}}{29}{section.2.4}
+\contentsline {section}{\tocsection {}{2.5}{Limiti e vantaggi}}{29}{section.2.5}
+\contentsline {part}{Parte\ 2. \enspace \noindent Meccanica quantistica: metodi basati su funzioni d'onda}{31}{part.2}
+\contentsline {chapter}{\tocchapter {Capitolo}{3}{Metodo di Hartree-Fock}}{32}{chapter.3}
+\contentsline {section}{\tocsection {}{3.1}{Le propriet\IeC {\`a} della funzione d'onda}}{33}{section.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.1.1}{La definizione di uno stato quantistico}}{34}{subsection.3.1.1}
+\contentsline {subsection}{\tocsubsection {}{3.1.2}{Stati stazionari}}{35}{subsection.3.1.2}
+\contentsline {section}{\tocsection {}{3.2}{L'approssimazione di Born-Oppenheimer}}{36}{section.3.2}
+\contentsline {section}{\tocsection {}{3.3}{Metodi approssimati per risolvere l'equazione di Schr\"odinger}}{38}{section.3.3}
+\contentsline {subsection}{\tocsubsection {}{3.3.1}{Metodo variazionale e variazionale lineare}}{38}{subsection.3.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.3.2}{Metodo perturbativo}}{39}{subsection.3.3.2}
+\contentsline {section}{\tocsection {}{3.4}{La teoria di Hartree-Fock}}{40}{section.3.4}
+\contentsline {subsection}{\tocsubsection {}{3.4.1}{La definizione della funzione d'onda multielettronica}}{40}{subsection.3.4.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{3.4.1.1}{L'introduzione dello spin}}{41}{subsubsection.3.4.1.1}
+\contentsline {subsection}{\tocsubsection {}{3.4.2}{La definizione dell'hamiltoniano}}{43}{subsection.3.4.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.1}{Integrali monoelettronici}}{44}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.2}{Integrali bielettronici}}{45}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{3.4.2.3}{Definizione degli elementi delle matrici di coulomb e di scambio}}{47}{subsubsection.3.4.2.3}
+\contentsline {subsection}{\tocsubsection {}{3.4.3}{La minimizzazione dell'energia con il metodo variazionale}}{48}{subsection.3.4.3}
+\contentsline {section}{\tocsection {}{3.5}{Il teorema di Koopman}}{50}{section.3.5}
+\contentsline {section}{\tocsection {}{3.6}{Approssimazione del set base}}{51}{section.3.6}
+\contentsline {section}{\tocsection {}{3.7}{Tecniche SCF}}{54}{section.3.7}
+\contentsline {section}{\tocsection {}{3.8}{Sistemi periodici}}{55}{section.3.8}
+\contentsline {chapter}{\tocchapter {Capitolo}{4}{Metodi di correlazione}}{57}{chapter.4}
+\contentsline {section}{\tocsection {}{4.1}{Determinanti di Slater di stati eccitati}}{58}{section.4.1}
+\contentsline {section}{\tocsection {}{4.2}{Interazione di configurazioni CI}}{59}{section.4.2}
+\contentsline {subsection}{\tocsubsection {}{4.2.1}{Elementi della matrice CI}}{60}{subsection.4.2.1}
+\contentsline {section}{\tocsection {}{4.3}{Size Consistency e Size Extensivity}}{61}{section.4.3}
+\contentsline {section}{\tocsection {}{4.4}{Metodi Multi Configurational SCF MCSCF e CAS}}{62}{section.4.4}
+\contentsline {subsection}{\tocsubsection {}{4.4.1}{MCSCF}}{62}{subsection.4.4.1}
+\contentsline {subsection}{\tocsubsection {}{4.4.2}{CAS}}{62}{subsection.4.4.2}
+\contentsline {section}{\tocsection {}{4.5}{Metodi Many-Body Perturbation Theory MBPT}}{63}{section.4.5}
+\contentsline {subsection}{\tocsubsection {}{4.5.1}{L'energia nei metodi MBPT}}{64}{subsection.4.5.1}
+\contentsline {subsection}{\tocsubsection {}{4.5.2}{La teoria di M{\o }ller- Plesset}}{66}{subsection.4.5.2}
+\contentsline {section}{\tocsection {}{4.6}{Metodi Coupled Clusters CC }}{68}{section.4.6}
+\contentsline {section}{\tocsection {}{4.7}{Metodi Quantum Monte-Carlo QMC}}{69}{section.4.7}
+\contentsline {chapter}{\tocchapter {Capitolo}{5}{Set di funzioni base}}{71}{chapter.5}
+\contentsline {section}{\tocsection {}{5.1}{Tipi di funzioni base}}{72}{section.5.1}
+\contentsline {subsection}{\tocsubsection {}{5.1.1}{STO }}{72}{subsection.5.1.1}
+\contentsline {subsection}{\tocsubsection {}{5.1.2}{GTO}}{73}{subsection.5.1.2}
+\contentsline {section}{\tocsection {}{5.2}{Sdoppiamento dei set base e numero di Z}}{74}{section.5.2}
+\contentsline {section}{\tocsection {}{5.3}{Costruzione di set base}}{76}{section.5.3}
+\contentsline {subsection}{\tocsubsection {}{5.3.1}{Esponenti di funzioni primitive}}{76}{subsection.5.3.1}
+\contentsline {subsection}{\tocsubsection {}{5.3.2}{Set base con esponenti parametrizzati}}{77}{subsection.5.3.2}
+\contentsline {subsection}{\tocsubsection {}{5.3.3}{Set base contratti}}{77}{subsection.5.3.3}
+\contentsline {subsection}{\tocsubsection {}{5.3.4}{Set base aumentati}}{78}{subsection.5.3.4}
+\contentsline {section}{\tocsection {}{5.4}{Effective Core Pseudopotential ECP}}{78}{section.5.4}
+\contentsline {section}{\tocsection {}{5.5}{Basis Set Superposition Error }}{79}{section.5.5}
+\contentsline {subsection}{\tocsubsection {}{5.5.1}{Metodi di risoluzione del BSSE}}{80}{subsection.5.5.1}
+\contentsline {section}{\tocsection {}{5.6}{Esempi di set base}}{80}{section.5.6}
+\contentsline {subsection}{\tocsubsection {}{5.6.1}{Pople }}{80}{subsection.5.6.1}
+\contentsline {subsection}{\tocsubsection {}{5.6.2}{Dunning-Huzinaga}}{81}{subsection.5.6.2}
+\contentsline {subsection}{\tocsubsection {}{5.6.3}{Karlsruhe-Type}}{81}{subsection.5.6.3}
+\contentsline {subsection}{\tocsubsection {}{5.6.4}{Atomic Natural Orbitals ANO's }}{81}{subsection.5.6.4}
+\contentsline {subsection}{\tocsubsection {}{5.6.5}{Correlation Consistent cc-}}{81}{subsection.5.6.5}
+\contentsline {subsection}{\tocsubsection {}{5.6.6}{Polarization consistent pc-}}{82}{subsection.5.6.6}
+\contentsline {subsection}{\tocsubsection {}{5.6.7}{Relativistici }}{82}{subsection.5.6.7}
+\contentsline {section}{\tocsection {}{5.7}{Funzioni base di Onde piane }}{82}{section.5.7}
+\contentsline {chapter}{\tocchapter {Capitolo}{6}{Teoria del funzionale della densit\IeC {\`a}}}{84}{chapter.6}
+\contentsline {section}{\tocsection {}{6.1}{La densit\IeC {\`a} elettronica }}{84}{section.6.1}
+\contentsline {section}{\tocsection {}{6.2}{Approccio senza orbitali}}{85}{section.6.2}
+\contentsline {section}{\tocsection {}{6.3}{La teoria di Kohn-Sham}}{86}{section.6.3}
+\contentsline {section}{\tocsection {}{6.4}{Matrice di densit\IeC {\`a} ridotta}}{87}{section.6.4}
+\contentsline {section}{\tocsection {}{6.5}{Potenziale di scambio e correlazione}}{89}{section.6.5}
+\contentsline {section}{\tocsection {}{6.6}{Funzionali di scambio e correlazione}}{90}{section.6.6}
+\contentsline {subsection}{\tocsubsection {}{6.6.1}{Local Density Approximation LDA }}{91}{subsection.6.6.1}
+\contentsline {subsection}{\tocsubsection {}{6.6.2}{Generalized Gradient Approximation GGA }}{92}{subsection.6.6.2}
+\contentsline {subsection}{\tocsubsection {}{6.6.3}{Meta-GGA }}{92}{subsection.6.6.3}
+\contentsline {subsection}{\tocsubsection {}{6.6.4}{Funzionali Ibridi }}{92}{subsection.6.6.4}
+\contentsline {section}{\tocsection {}{6.7}{Considerazioni Computazionali}}{93}{section.6.7}
+\contentsline {section}{\tocsection {}{6.8}{Difetti dei metodi DFT}}{94}{section.6.8}
+\contentsline {paragraph}{\tocparagraph {}{}{Il teorema di Hohenberg-Kohn assicura che la densit\IeC {\`a} elettronica contenga tutta l'informazione di cui abbiamo bisogno. Tuttavia nell'approssimazione di Khon-Sham consideriamo valida una matrice di densit\IeC {\`a} ridotta troncata al primo ordine. Questa approssimazione potrebbe non valere per sistemi con una gran quantit\IeC {\`a} di correlazione statica. Per superare questo problema si sviluppa la matrice di densit\IeC {\`a} ridotta come combinazione lineare di pi\IeC {\`u} determinanti di Slater. Si ottengono cos\IeC {\`\i } i metodi \emph {ensemble DFT}.\\}}{94}{section*.2}
+\contentsline {paragraph}{\tocparagraph {}{}{I sistemi radical anionici e radical cationici non vengono descritti bene. Infatti si generano cariche frazionarie e geometrie elongate. Questi problemi sono da imputare alla incompeta cancellazione del contributo di autointerazione coulombiana.\\}}{94}{section*.3}
+\contentsline {paragraph}{\tocparagraph {}{}{Le differenze di energia tra stati a diversa molteplicit\IeC {\`a} di spin sono spesso inesatte. Ci\IeC {\`o} \IeC {\`e} dovuto ai difetti nella definizione dei funzionali di correlazione e scambio.\\}}{94}{section*.4}
+\contentsline {paragraph}{\tocparagraph {}{}{Talvolta componenti isotrope del momento di spin presentano una sensibile anisotropia anche in assenza di campi magnetici esterni. Ci\IeC {\`o} \IeC {\`e} dovuto alle differenze di densit\IeC {\`a} elettronica utilizzata per descrivere le diverse componenti. Pu\IeC {\`o} essere evitato omogeneizzando la densit\IeC {\`a} elettronica.}}{94}{section*.5}
+\contentsline {chapter}{\tocchapter {Capitolo}{7}{Metodi semiempirici}}{95}{chapter.7}
+\contentsline {section}{\tocsection {}{7.1}{I metodi NDDO}}{95}{section.7.1}
+\contentsline {section}{\tocsection {}{7.2}{I metodi INDO}}{96}{section.7.2}
+\contentsline {section}{\tocsection {}{7.3}{I metodi CNDO}}{96}{section.7.3}
+\contentsline {section}{\tocsection {}{7.4}{La parametrizzazione}}{96}{section.7.4}
+\contentsline {section}{\tocsection {}{7.5}{I metodi di H\"uckel}}{96}{section.7.5}
+\contentsline {subsection}{\tocsubsection {}{7.5.1}{Extended HT}}{96}{subsection.7.5.1}
+\contentsline {subsection}{\tocsubsection {}{7.5.2}{HT}}{97}{subsection.7.5.2}
+\contentsline {part}{Parte\ 3. \enspace \noindent Applicazione dei metodi}{98}{part.3}
+\contentsline {chapter}{\tocchapter {Capitolo}{8}{Termodinamica Statistica}}{99}{chapter.8}
+\contentsline {section}{\tocsection {}{8.1}{Definizioni e concetti preliminari}}{99}{section.8.1}
+\contentsline {subsection}{\tocsubsection {}{8.1.1}{Postulati della termodinamica statistica}}{100}{subsection.8.1.1}
+\contentsline {section}{\tocsection {}{8.2}{Insieme canonico}}{101}{section.8.2}
+\contentsline {subsection}{\tocsubsection {}{8.2.1}{Metodo del termine massimo}}{102}{subsection.8.2.1}
+\contentsline {subsection}{\tocsubsection {}{8.2.2}{Derivazione della probabilit\IeC {\`a}}}{103}{subsection.8.2.2}
+\contentsline {subsection}{\tocsubsection {}{8.2.3}{Determinazione dei moltiplicatori di Lagrange}}{103}{subsection.8.2.3}
+\contentsline {subsubsection}{\tocsubsubsection {}{8.2.3.1}{Determinazione di $\alpha $}}{103}{subsubsection.8.2.3.1}
+\contentsline {subsubsection}{\tocsubsubsection {}{8.2.3.2}{Determinazione di $\beta $}}{104}{subsubsection.8.2.3.2}
+\contentsline {subsection}{\tocsubsection {}{8.2.4}{Derivazione dell'equazione fondamentale dell'insieme canonico}}{105}{subsection.8.2.4}
+\contentsline {section}{\tocsection {}{8.3}{Insieme Grancanonico}}{105}{section.8.3}
+\contentsline {subsection}{\tocsubsection {}{8.3.1}{Determinazione dei moltiplicatori di Lagrange}}{106}{subsection.8.3.1}
+\contentsline {subsection}{\tocsubsection {}{8.3.2}{Derivazione dell'equazione fondamentale dell'insieme grancanonico}}{106}{subsection.8.3.2}
+\contentsline {section}{\tocsection {}{8.4}{Insieme Microcanonico}}{107}{section.8.4}
+\contentsline {section}{\tocsection {}{8.5}{Fluttuazioni}}{108}{section.8.5}
+\contentsline {subsection}{\tocsubsection {}{8.5.1}{Fluttuazioni di $E$}}{108}{subsection.8.5.1}
+\contentsline {subsection}{\tocsubsection {}{8.5.2}{Fluttuazioni di $N$}}{109}{subsection.8.5.2}
+\contentsline {section}{\tocsection {}{8.6}{Equivalenza termodinamica degli insiemi}}{110}{section.8.6}
+\contentsline {subsection}{\tocsubsection {}{8.6.1}{Equivalenza tra insiemi Grancanonico e Canonico}}{110}{subsection.8.6.1}
+\contentsline {subsection}{\tocsubsection {}{8.6.2}{Equivalenza tra insiemi Canonico e Microcanonico}}{110}{subsection.8.6.2}
+\contentsline {section}{\tocsection {}{8.7}{Seconda legge della termodinamica}}{111}{section.8.7}
+\contentsline {section}{\tocsection {}{8.8}{Sistemi di molecole indipendenti}}{112}{section.8.8}
+\contentsline {section}{\tocsection {}{8.9}{Variabili termodinamiche e funzioni di partizione}}{113}{section.8.9}
+\contentsline {section}{\tocsection {}{8.10}{Decomposizione della funzione di partizione molecolare}}{113}{section.8.10}
+\contentsline {subsection}{\tocsubsection {}{8.10.1}{Funzione di partizione traslazionale}}{114}{subsection.8.10.1}
+\contentsline {subsection}{\tocsubsection {}{8.10.2}{Funzione di partizione rotazionale}}{114}{subsection.8.10.2}
+\contentsline {subsection}{\tocsubsection {}{8.10.3}{Funzione di partizione vibrazionale}}{115}{subsection.8.10.3}
+\contentsline {subsection}{\tocsubsection {}{8.10.4}{Funzione di partizione elettronica}}{116}{subsection.8.10.4}
+\contentsline {chapter}{\tocchapter {Capitolo}{9}{Applicazione della Termodinamica Statistica: Calcolo della dispersione fononica}}{117}{chapter.9}
+\contentsline {section}{\tocsection {}{9.1}{Fononi e vibrazioni reticolari}}{117}{section.9.1}
+\contentsline {subsection}{\tocsubsection {}{9.1.1}{Descrizione matematica del fenomeno}}{118}{subsection.9.1.1}
+\contentsline {subsection}{\tocsubsection {}{9.1.2}{Cristalli di atomici:formalismo matematico}}{120}{subsection.9.1.2}
+\contentsline {subsection}{\tocsubsection {}{9.1.3}{Comportamento al confine della FBZ}}{122}{subsection.9.1.3}
+\contentsline {section}{\tocsection {}{9.2}{Il modello di Einstein}}{122}{section.9.2}
+\contentsline {section}{\tocsection {}{9.3}{Il modello di Debye}}{124}{section.9.3}
+\contentsline {chapter}{\tocchapter {Capitolo}{}{Indice analitico}}{125}{chapter*.6}
+\contentsline {chapter}{\tocchapter {Capitolo}{}{Ringraziamenti}}{127}{chapter*.7}
