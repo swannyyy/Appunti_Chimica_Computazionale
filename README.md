@@ -6,7 +6,7 @@ Perché l'ho fatto? Per studiare gli argomenti trattati al fine di dare esami ed
 
 Ma veniamo al grosso, l'opera è tuttora incompleta infatti mi piacerebbe che venissero aggiunti nuovi esempi nella parte 3 dove vengono trattate le applicazioni pratiche dei risultati forniti dai calcoli. Quindi chiunque voglia contribuire con un capitolo, un paragrafo, la correzione o la revisione è il benvenuto. Se contribuirete nella scrittura del testo vi prego di aggiungere il vostro nome o le vostre iniziali alla pagina iniziale. Altrimenti per tutti gli altri contributi minori potete aggiungere il vostro nome o le vostre iniziali ai ringraziamenti.
 
-Dato che lo scopo di questo testo era il superamento di esami non mi sembra giusto che i ci guadagni più del titolo di studi. Sarebbe altresì ingiusto che qualcun altro ci guadagni, quindi siete pregati di non vendere quest'opera. 
+Dato che lo scopo di questo testo era il superamento di esami non mi sembra giusto che io ci guadagni più del titolo di studi. Sarebbe altresì ingiusto che qualcun altro ci guadagni, quindi siete pregati di non vendere quest'opera. 
 
 Spero che tutto questo possa tornare utile!
 Buon lavoro e buono studio!
